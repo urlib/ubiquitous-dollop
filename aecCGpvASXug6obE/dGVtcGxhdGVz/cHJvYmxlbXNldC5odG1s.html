@@ -1,0 +1,42 @@
+{% extends "layout.html" %}
+
+{% block title %}
+{% if style == 'problemset' %}
+  {{ oj.name }} 的题目列表
+{% elif style == 'search' %}
+  {{ ' '.join(keywords) }} 的搜索结果
+{% endif %}
+{% endblock %}
+
+{% block page_title %}
+{% if style == 'problemset' %}
+  {{ oj.name }} 的题目列表 - OI Archive
+{% elif style == 'search' %}
+  {{ ' '.join(keywords) }} 的搜索结果 - OI Archive
+{% endif %}
+{% endblock %}
+
+{% block main %}
+<div class="mdui-table-fluid">
+  <table class="mdui-table mdui-table-hoverable">
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Problem Name</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for problem in problemset %}
+        <tr>
+          <td>{{ problem.oj_name }}{{ problem.pid }}</td>
+          <td>
+            <a class="problemset-link" href="/problem/{{ problem.oj }}/{{ problem.pid }}">
+              {{ problem.title }}
+            </a>
+          </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}
