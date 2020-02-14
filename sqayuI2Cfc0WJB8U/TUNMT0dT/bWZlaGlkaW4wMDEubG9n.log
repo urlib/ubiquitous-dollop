@@ -1,0 +1,89 @@
+
+
+*********************************************
+McAfee System Core Installer
+Copyright (C) 1995-2019 McAfee, LLC. All Rights Reserved.
+All Rights Reserved Version SYSCORE.19.7.0.195
+*********************************************
+Thu Feb 06 22:53:59 2020
+
+
+[22:53:59:630] - "C:\Program Files\Common Files\McAfee\VSCore_19_7\VSCB181.tmp\VSCore\mfehidin.exe" -u -g {308C1AD7-765B-4A17-B25B-D415F07357F3} -mfetrust_killbit -etl C:\ProgramData\McAfee\MCLOGS\mfehidin001.etl -l C:\ProgramData\McAfee\MCLOGS\mfehidin001.log
+[22:53:59:630] - OS is 10000
+[22:53:59:630] - SystemArchitecture is x64
+[22:53:59:630] - ETL TRACING ON
+[22:53:59:630] - App-V Client doesn't seem to have been installed. RegKeyOpenRead Software\Microsoft\AppV\Client\Virtualization failed 0
+[22:53:59:673] - IsHighIntegrityProcess: Running as high Integrity Process (administrator)
+[22:53:59:674] - IsServiceReferencePresent: service mfehidk has 0 references
+[22:53:59:689] - *** ETL TRACING INFO
+[22:53:59:689] - Loaded 64 channels...
+[22:53:59:689] - Requested logging on 64 channels...
+[22:53:59:689] - Enabled logging on 63 channels...
+[22:53:59:689] - WARNING:  1 channel(s) are in use by other trace logger(s) and will not be logged in C:\ProgramData\McAfee\MCLOGS\mfehidin001.etl...
+[22:53:59:689] - *** Displaying Contested Loggers
+[22:53:59:689] -  
+[22:53:59:689] -     LoggerId = 0x10
+[22:53:59:689] -     LoggerName = McAfee-Mmss
+[22:53:59:689] -     LogFileName = C:\ProgramData\McAfee\MCLOGS\MMSSHOST\MMSSHOST.etl.004
+[22:53:59:689] -  
+[22:53:59:689] - End Contested Loggers ***
+[22:53:59:689] - INFO END ***
+[22:53:59:689] - parseGUIDsXML: C:\Program Files\Common Files\McAfee\VSCore_19_7\VSCB181.tmp\VSCore\guids.xml - {308C1AD7-765B-4A17-B25B-D415F07357F3} 
+[22:53:59:696] - ValidateDocument: Found <ManifestMap>/<CoreInstall> element
+[22:53:59:696] - ValidateDocument: Found <Signature> element
+[22:53:59:696] - SHA256 for document is 2e1c84d5e987f416f6e00e47a88ad6390a0fb8dcb58a93e6b521163b912da47a
+[22:53:59:696] - parseSignature: 
+[22:53:59:696] - parseSignedInfo: 
+[22:53:59:696] - parseReference: 
+[22:53:59:696] - parseDigestValue: 
+[22:53:59:696] - parseDigestValue: exit=0
+[22:53:59:696] - parseReference: exit=1
+[22:53:59:696] - parseSignedInfo: exit=1
+[22:53:59:696] - parseSignatureValue: 
+[22:53:59:697] - CheckDataSignature: The certificate is valid
+[22:53:59:697] - parseSignatureValue: exit=1
+[22:53:59:697] - parseSignature: exit=1
+[22:53:59:697] - ValidateDocument: return=1
+[22:53:59:697] - parseGUIDsXML: {308C1AD7-765B-4A17-B25B-D415F07357F3} found in guids.xml.
+[22:53:59:697] - parseGUIDsXML: GUID = {308C1AD7-765B-4A17-B25B-D415F07357F3} ref = WSS Version = 19.7.0.182.4 Priv=7 Name=guids
+[22:53:59:697] - getPersistedTelemetryInt: Read value [TelemetryInstallCount.19.7.0.182.4] [4]
+[22:53:59:698] - getPersistedTelemetryInt: Read value [TelemetryInstallCount.19.7.0.182.4] [4]
+[22:53:59:698] - setPersistedTelemetryInt: Persisted value [TelemetryInstallCount.19.7.0.182.4] [5]
+[22:53:59:698] - getPersistedTelemetryInt: Read value [TelemetryInstallCount.all] [10]
+[22:53:59:698] - setPersistedTelemetryInt: Persisted value [TelemetryInstallCount.all] [11]
+[22:53:59:698] - Using install ref WSS
+[22:53:59:699] - AuthorizeOperation: {308C1AD7-765B-4A17-B25B-D415F07357F3}
+[22:53:59:699] - PointProductConfig:  is consistent.
+[22:53:59:699] - PointProductConfig:
+[22:53:59:699] - PointProductConfig:XML WSS.xml, version = 19.9.0.186.6 shared by following 1 point product(s).
+[22:53:59:699] - PointProductConfig:Point Product GUID={E179F170-519B-469d-AF72-BF56E2B1EED7}
+[22:53:59:702] - VSCore version is [19.7.0.182.4], per manifest [WSS.xml]
+[22:53:59:703] - INFO: {308C1AD7-765B-4A17-B25B-D415F07357F3} isn't recorded as installed, but there are other point products sharing the manifest installed. So, will not continue un-installation.
+[22:53:59:703] - Cleanup_RemoveService: Failed to open service [mfehidin_svc] [1060]
+[22:53:59:703] - StartHIP: policy disable 0 service stopped 0
+[22:53:59:703] - Exit code will be 0
+[22:53:59:703] - MFEHidinTelemetry::JSON: {"pver":1,"code":0,"desc":"VSCore Installer Result","type":"INSTALL","sev":"INFORMATIONAL","data" : {	"installResult": 0,	"isUninstall": true,	"pointProductId": 401,	"installationResult": 0,	"installAttempts": 5,	"installAttemptsAllVersions": 11,	"oldVersion": "19.9.0.186.6",	"newVersion": "19.7.0.182.4",	"osMajor": 0,	"osMinor": 0,	"osServicePack": 0,	"osBuildNumber": 18363,	"elapsedTime": 187,	"timeSinceLastInstall": 1,	"errorCodes": [],	"warnCodes": [],	"infoCodes": []}}
+[22:53:59:740] - MFEHidinTelemetry::sendData: Telemetry NOT sent. Not yet supported.
+[22:53:59:740] - 
+
+=============================================
+[22:53:59:740] - 
+
+Telemetry data
+[22:53:59:740] - isUninstall:                 [1]
+[22:53:59:740] - pointProductId:              [401]
+[22:53:59:740] - installationResult:          [0]
+[22:53:59:740] - installAttempts:             [5]
+[22:53:59:740] - installAttemptsAllVersions:  [11]
+[22:53:59:740] - oldVersion:                  [19.9.0.186.6]
+[22:53:59:740] - newVersion:                  [19.7.0.182.4]
+[22:53:59:740] - platformWordSize:            [2]
+[22:53:59:740] - osMajor:                     [0]
+[22:53:59:740] - osMinor:                     [0]
+[22:53:59:740] - osServicePack:               [0]
+[22:53:59:740] - osBuildNumber:               [18363]
+[22:53:59:740] - elapsedTime (ms):            [187]
+[22:53:59:740] - timeSinceLastInstall (s):    [1]
+[22:53:59:740] - =============================================
+
+[22:53:59:740] - Returning 0
