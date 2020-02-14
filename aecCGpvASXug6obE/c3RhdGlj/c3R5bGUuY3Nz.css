@@ -1,0 +1,241 @@
+.body {
+	background: #f5f5f5 !important;
+}
+
+.main {
+	margin-top: 88px;
+	margin-bottom: 32px;
+}
+
+/* ===== mdui typo ===== */
+.mdui-typo a {
+	color: #00BCD4 !important;
+}
+.mdui-typo a:before {
+	background-color: #00BCD4 !important;
+}
+.mdui-typo {
+	font-size: 16px !important;
+}
+.mdui-typo h1,
+.mdui-typo h2,
+.mdui-typo h3,
+.mdui-typo h4,
+.mdui-typo h5,
+.mdui-typo h6 {
+	margin-top: 0px !important;
+	margin-bottom: 1.2em !important;
+	font-weight: bold !important;
+}
+.mdui-typo h1 {
+	margin-top: 2em !important;
+	font-size: 24px !important;
+}
+.mdui-typo h2 {
+	margin-top: 1.6em !important;
+	font-size: 20px !important;
+}
+.mdui-typo h3 {
+	font-size: 18px !important;
+}
+.mdui-typo h4,
+.mdui-typo h5,
+.mdui-typo h6 {
+	font-size: 16px !important;
+}
+/* ===== mdui typo ===== */
+
+/* ===== tooolbar ===== */
+.toolbar {
+	color: #757575 !important;
+	background: #f5f5f5 !important;
+	box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12) !important;
+	position: fixed;
+	top: 0;
+	width: 100% !important;
+	z-index: 20040214;
+}
+@media (min-width: 1024px) {
+	.mdui-drawer-body-left .toolbar {
+		width: calc(100% - 240px) !important;
+	}
+}
+.toolbar .mdui-textfield {
+	max-width: 400px;
+}
+/* ===== toolbar ===== */
+
+/* ===== drawer ===== */
+.drawer {
+	background: #37474f !important;
+	z-index: 20040725 !important;
+}
+.drawer .mdui-subheader,
+.drawer .mdui-list-item-icon {
+	color: #78909c !important;
+}
+.drawer .mdui-list-item {
+	color: #78909c !important;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+.drawer .mdui-list-item {
+	transition: 0s;
+	-webkit-transition: 0s;
+}
+.drawer .list-item :hover {
+	background: #06859f !important;
+}
+.drawer .list-item :hover > * {
+	color: #f5f5f5 !important;
+}
+.drawer .mdui-list-item .mdui-list-item-content {
+	margin-left: 20px;
+}
+/* ===== drawer ===== */
+
+/* ===== comment ===== */
+.comment {
+	margin-top: 32px;
+	display: none;
+}
+.comment-container {
+	margin: 0 32px 0 32px !important;
+	padding: 0;
+	min-height: 36px !important;
+	margin-bottom: -32px !important;
+}
+/* ===== comment ===== */
+
+/* ===== index page ===== */
+.index-card .mdui-card-content {
+	padding: 0;
+	margin: 1.2em;
+}
+/* ===== index page ===== */
+
+/* ===== problemset ===== */
+.problemset-link {
+	color: #000;
+	text-decoration: none;
+}
+/* ===== problemset ===== */
+
+/* ===== problem ===== */
+.problem-card {
+	margin-bottom: 32px;
+}
+.problem-card .mdui-card-primary {
+	font-size: 10px;
+	margin: 1.2em;
+	padding: 0;
+}
+.problem-card .mdui-card-content {
+	padding: 0;
+	margin: 0 1.2em 1.2em 1.2em;
+}
+.problem-card .mdui-card-primary .mdui-card-primary-title {
+	font-size: 22px;
+}
+.problem-card img {
+	margin: auto;
+	display: block;
+}
+.problem-card .table {
+	border: 1px solid rgba(0,0,0,.12);
+	border-radius: 2px;
+	box-shadow: none !important;
+	-webkit-box-shadow: none !important;
+}
+.problem-card p {
+	margin-top: 16px;
+	margin-bottom: 16px;
+}
+.problem-infobar {
+	margin-bottom: 32px;
+	width: 100%;
+	height: 36px;
+	display: block;
+	text-align: justify;
+	position: relative !important;
+}
+.problem-infobar .btn {
+	color: #000 !important;
+	background: #fff;
+}
+.problem-infobar .btn-group {
+	display: inline-block;
+	box-shadow: 0 3px 1px -2px rgba(0,0,0,.2), 0 2px 2px 0 rgba(0,0,0,.14), 0 1px 5px 0 rgba(0,0,0,.12);
+	-webkit-box-shadow: 0 3px 1px -2px rgba(0,0,0,.2), 0 2px 2px 0 rgba(0,0,0,.14), 0 1px 5px 0 rgba(0,0,0,.12);
+}
+.problem-infobar .left {
+	position: absolute !important;
+	left: 0px !important;
+}
+.problem-infobar .right {
+	position: absolute !important;
+	right: 0px !important;
+}
+.problem-infobar .btn-group .btn {
+	color: #f5f5f5 !important;
+	background: #78909c !important;
+}
+.fab,
+.problem-infobar .btn-group .btn-active,
+.problem-infobar .btn-group .btn:hover {
+	color: #f5f5f5 !important;
+	background: #00BCD4 !important;
+}
+@media (max-width: 680px) {
+	.problem-infobar .left.btn-group .btn {
+		display: none !important;
+	}
+	.problem-infobar .left.btn-group .btn-active {
+		display: block !important;
+	}
+}
+/* ===== problem ===== */
+
+/* ===== dark mode ===== */
+.body.mdui-theme-layout-dark,
+.mdui-theme-layout-dark .toolbar {
+	background: #303030 !important;
+}
+.mdui-theme-layout-dark .toolbar {
+	background: #303030 !important;
+	color: #d0d0d0 !important;
+}
+.mdui-theme-layout-dark .drawer {
+	background: #263238 !important;
+}
+.mdui-theme-layout-dark .drawer .mdui-subheader,
+.mdui-theme-layout-dark .drawer .mdui-list-item,
+.mdui-theme-layout-dark .drawer .mdui-list-item-icon {
+	color: #607D8B !important;
+}
+.mdui-theme-layout-dark .drawer .list-item :hover {
+	background: #06859f !important;
+}
+.mdui-theme-layout-dark .drawer .list-item :hover > * {
+	color: #d0d0d0 !important;
+}
+.mdui-theme-layout-dark .problem-infobar .btn-group .btn {
+	color: #d0d0d0 !important;
+	background: #455A64 !important;
+}
+.mdui-theme-layout-dark .fab,
+.mdui-theme-layout-dark .problem-infobar .btn-group .btn-active,
+.mdui-theme-layout-dark .problem-infobar .btn-group .btn:hover {
+	color: #d0d0d0 !important;
+	background: #06859f !important;
+}
+.mdui-theme-layout-dark .problemset-link {
+	color: #fff !important;
+}
+.mdui-theme-layout-dark .mdui-typo a {
+	color: #06859f !important;
+}
+.mdui-theme-layout-dark .mdui-typo a:before {
+	background-color: #06859f !important;
+}
+/* ===== dark mode ===== */
