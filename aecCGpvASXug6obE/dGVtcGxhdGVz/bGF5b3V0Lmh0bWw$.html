@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="OI Archive">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <title>{% block page_title %}{{ title }} - OI Archive{% endblock %}
+    </title>
+    <link rel="shortcut icon" href="/favicon.png">
+    <link rel="stylesheet" href="/static/style.css?20191005">
+    <link rel="stylesheet" href="/static/mdui/css/mdui.min.css">
+  </head>
+  <body class="body mdui-drawer-body-left mdui-theme-primary-blue-grey mdui-theme-accent-cyan">
+
+    <div class="toolbar mdui-toolbar" mdui-headroom>
+      {% block toolbar %}
+        <a class="mdui-btn mdui-btn-icon" mdui-drawer="{target: '#drawer', swipe: true}"><i class="mdui-icon material-icons">menu</i></a>
+        <span class="mdui-typo-title">{% block title %}{{ title }}{% endblock %}</span>
+        <div class="mdui-toolbar-spacer"></div>
+        <div class="mdui-textfield mdui-textfield-expandable">
+          <button class="mdui-textfield-icon mdui-btn mdui-btn-icon"><i class="mdui-icon material-icons">search</i></button>
+          <input class="mdui-textfield-input" id="search" type="text" placeholder="Search"/>
+          <button class="mdui-textfield-close mdui-btn mdui-btn-icon"><i class="mdui-icon material-icons">close</i></button>
+        </div>
+      {% endblock %}
+    </div>
+
+    <div class="drawer mdui-drawer" id="drawer">
+      {% block drawer %}
+        <ul class="mdui-list">
+          <a href="/" class="list-item">
+            <li class="mdui-list-item mdui-ripple">
+              <i class="mdui-list-item-icon mdui-icon material-icons">home</i>
+              <div class="mdui-list-item-content">首页</div>
+            </li>
+          </a>
+          <li class="mdui-subheader">OJ 列表</li>
+          {% for oj in oj_list.values() %}
+          <a href="/problemset/{{ oj.key }}" class="list-item">
+            <li class="mdui-list-item mdui-ripple">
+              <i class="mdui-list-item-icon mdui-icon material-icons">archive</i>
+              <div class="mdui-list-item-content">{{ oj.name }}</div>
+            </li>
+         </a> 
+          {% endfor %}
+        </ul>
+      {% endblock %}
+    </div>
+
+    <div class="main mdui-container">
+      {% block main %}
+      <div class="index-card mdui-card">
+        <div class="mdui-card-content mdui-typo">
+          {% block main_content %}
+          子曰：「学而时习之，不亦说乎？有朋自远方来，不亦乐乎？人不知，而不愠，不亦君子乎？」
+          {% endblock %}
+        </div>
+      </div>
+      {% endblock %}
+      {% block comment %}
+      <div class="mdui-card comment">
+        <div class="mdui-card-primary">
+          <div class="mdui-card-primary-title">评论</div>
+        </div>
+        <div id="lv-container" class="comment-container" data-id="city" data-uid="MTAyMC8zNDEwNi8xMDY0NA==">
+        </div>
+      </div>
+      {% endblock %}
+    </div>
+
+    <button class="fab mdui-fab mdui-fab-fixed mdui-ripple" id="fab">
+      <i class="mdui-icon material-icons">lightbulb_outline</i>
+    </button>
+
+    <script type="text/javascript">
+      var _paq = window._paq || [];
+      _paq.push(['trackPageView']);
+      _paq.push(['enableLinkTracking']);
+      (function() {
+        var u="https://matomo.memset0.cn/";
+        _paq.push(['setTrackerUrl', u+'matomo.php']);
+        _paq.push(['setSiteId', '2']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+      })();
+    </script>
+    <script src="/static/mdui/js/mdui.min.js"></script>
+    <script src="/static/jquery.min.js"></script>
+    <script type="text/javascript">
+    $(function () {
+        $("#search").keydown(function (e) {
+            if (e.keyCode == 13) {
+              window.location.href = "/search/" + $("#search")[0].value;
+            }
+        });
+    });
+    $(function () {
+        $("#fab").click(function () {
+          if ($("body").attr("class").split(' ').indexOf("mdui-theme-layout-dark") == -1) {
+            $("body").addClass("mdui-theme-layout-dark");
+          } else {
+            $("body").removeClass("mdui-theme-layout-dark");
+          }
+        });
+    });
+    </script>
+    <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+            inlineMath: [ ['$','$'], ["\\(","\\)"]  ],
+            processEscapes: true,
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+        }
+    });
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax(), i;
+        for(i=0; i < all.length; i += 1) {
+            all[i].SourceElement().parentNode.className += ' has-jax';
+        }
+    });
+    </script>
+    <script async src="//cdn.bootcss.com/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+    <script type="text/javascript">
+      (function(d, s) {
+        var j, e = d.getElementsByTagName(s)[0];
+        if (typeof LivereTower === 'function') { return; }
+        j = d.createElement(s);
+        j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+        j.async = true;
+        e.parentNode.insertBefore(j, e);
+        setTimeout(function () {
+          $('.comment')[0].style['display']='block';
+        }, 2000);
+      })(document, 'script');
+    </script>
+
+  </body>
+</html>
