@@ -1,0 +1,459 @@
+[N] 当且仅当输入绝对路径时，工作正常。
+输入你的文件位置：D:\wy-dl-0
+[R] ========== Started Layer D:/wy-dl-0/. ==========
+
+[R] ========== File D:/wy-dl-0/1009269697.zip has successfully been uploaded @2020/02/14 12:05:39. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/MTAwOTI2OTY5Ny56aXA$.zip
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/MTAwOTI2OTY5Ny56aXA$.zip
+
+[R] ========== Started Layer D:/wy-dl-0/360se8.1.1.240等10个文件. ==========
+
+[R] ========== File D:/wy-dl-0/360se8.1.1.240等10个文件/116704.htm has successfully been uploaded @2020/02/14 12:05:44. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/MTE2NzA0Lmh0bQ$$.htm
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/MTE2NzA0Lmh0bQ$$.htm
+
+[R] ========== File D:/wy-dl-0/360se8.1.1.240等10个文件/2455014.jpg has successfully been uploaded @2020/02/14 12:05:50. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/MjQ1NTAxNC5qcGc$.jpg
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/MjQ1NTAxNC5qcGc$.jpg
+
+[R] ========== File D:/wy-dl-0/360se8.1.1.240等10个文件/360se8.1.1.240.exe.zip.001 has successfully been uploaded @2020/02/14 12:06:45. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/MzYwc2U4LjEuMS4yNDAuZXhlLnppcC4wMDE$.001
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/MzYwc2U4LjEuMS4yNDAuZXhlLnppcC4wMDE$.001
+
+[R] ========== File D:/wy-dl-0/360se8.1.1.240等10个文件/360se8.1.1.240.exe.zip.002 has successfully been uploaded @2020/02/14 12:07:45. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/MzYwc2U4LjEuMS4yNDAuZXhlLnppcC4wMDI$.002
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/MzYwc2U4LjEuMS4yNDAuZXhlLnppcC4wMDI$.002
+
+[R] ========== File D:/wy-dl-0/360se8.1.1.240等10个文件/360se8.1.1.240.exe.zip.003 has successfully been uploaded @2020/02/14 12:08:43. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/MzYwc2U4LjEuMS4yNDAuZXhlLnppcC4wMDM$.003
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/MzYwc2U4LjEuMS4yNDAuZXhlLnppcC4wMDM$.003
+
+[R] ========== File D:/wy-dl-0/360se8.1.1.240等10个文件/360se8.1.1.240.exe.zip.004 has successfully been uploaded @2020/02/14 12:09:23. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/MzYwc2U4LjEuMS4yNDAuZXhlLnppcC4wMDQ$.004
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/MzYwc2U4LjEuMS4yNDAuZXhlLnppcC4wMDQ$.004
+
+[R] ========== File D:/wy-dl-0/360se8.1.1.240等10个文件/360se8.2.1.322.exe.zip.001 has successfully been uploaded @2020/02/14 12:10:35. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/MzYwc2U4LjIuMS4zMjIuZXhlLnppcC4wMDE$.001
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/MzYwc2U4LjIuMS4zMjIuZXhlLnppcC4wMDE$.001
+
+[R] ========== File D:/wy-dl-0/360se8.1.1.240等10个文件/360se8.2.1.322.exe.zip.002 has successfully been uploaded @2020/02/14 12:11:46. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/MzYwc2U4LjIuMS4zMjIuZXhlLnppcC4wMDI$.002
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/MzYwc2U4LjIuMS4zMjIuZXhlLnppcC4wMDI$.002
+
+[R] ========== File D:/wy-dl-0/360se8.1.1.240等10个文件/360se8.2.1.322.exe.zip.003 has successfully been uploaded @2020/02/14 12:12:51. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/MzYwc2U4LjIuMS4zMjIuZXhlLnppcC4wMDM$.003
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/MzYwc2U4LjIuMS4zMjIuZXhlLnppcC4wMDM$.003
+
+[R] ========== File D:/wy-dl-0/360se8.1.1.240等10个文件/B4_张皓天_clip.gif has successfully been uploaded @2020/02/14 12:13:00. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/QjRf5byg55qT5aSpX2NsaXAuZ2lm.gif
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/QjRf5byg55qT5aSpX2NsaXAuZ2lm.gif
+
+[R] ========== File D:/wy-dl-0/360se8.1.1.240等10个文件/B4_黄清莹.fla has successfully been uploaded @2020/02/14 12:13:09. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/QjRf6buE5riF6I65LmZsYQ$$.fla
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/QjRf6buE5riF6I65LmZsYQ$$.fla
+
+[R] ========== File D:/wy-dl-0/360se8.1.1.240等10个文件/B4_黄清莹.swf has successfully been uploaded @2020/02/14 12:13:13. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/QjRf6buE5riF6I65LnN3Zg$$.swf
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/QjRf6buE5riF6I65LnN3Zg$$.swf
+
+[R] ========== File D:/wy-dl-0/360se8.1.1.240等10个文件/cena - Cena评测系统.rar has successfully been uploaded @2020/02/14 12:13:47. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/Y2VuYSAtIENlbmHor4TmtYvns7vnu58ucmFy.rar
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/Y2VuYSAtIENlbmHor4TmtYvns7vnu58ucmFy.rar
+
+[R] ========== File D:/wy-dl-0/360se8.1.1.240等10个文件/ChromePortable.lnk has successfully been uploaded @2020/02/14 12:13:51. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/Q2hyb21lUG9ydGFibGUubG5r.lnk
+[W] Tested CDN https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/Q2hyb21lUG9ydGFibGUubG5r.lnk but the content was unavailable.
+
+[R] ========== File D:/wy-dl-0/360se8.1.1.240等10个文件/CPhelp.hta has successfully been uploaded @2020/02/14 12:13:53. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/Q1BoZWxwLmh0YQ$$.hta
+[W] Tested CDN https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/MzYwc2U4LjEuMS4yNDDnrYkxMOS4quaWh-S7tg$$/Q1BoZWxwLmh0YQ$$.hta but the content was unavailable.
+
+[R] ========== Finished Layer D:/wy-dl-0/360se8.1.1.240等10个文件. ==========
+
+[R] ========== Started Layer D:/wy-dl-0/mclauncher等6个文件. ==========
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/mclauncher.7z has successfully been uploaded @2020/02/14 12:14:17. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/bWNsYXVuY2hlci43eg$$.7z
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/bWNsYXVuY2hlci43eg$$.7z
+
+[E] Request timeout.
+[R] Retrying @2020/02/14 12:16:54
+[W] ========== File D:/wy-dl-0/mclauncher等6个文件/mcpcbox.7z has already existed @2020/02/14 12:17:46. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/bWNwY2JveC43eg$$.7z
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/bWNwY2JveC43eg$$.7z
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/multicraft-translation-zh.zip has successfully been uploaded @2020/02/14 12:17:50. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/bXVsdGljcmFmdC10cmFuc2xhdGlvbi16aC56aXA$.zip
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/bXVsdGljcmFmdC10cmFuc2xhdGlvbi16aC56aXA$.zip
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/多玩我的世界盒子_2.0.1347411.460.7z has successfully been uploaded @2020/02/14 12:18:44. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5aSa546p5oiR55qE5LiW55WM55uS5a2QXzIuMC4xMzQ3NDExLjQ2MC43eg$$.7z
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5aSa546p5oiR55qE5LiW55WM55uS5a2QXzIuMC4xMzQ3NDExLjQ2MC43eg$$.7z
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/多玩我的世界盒子安装包.rar has successfully been uploaded @2020/02/14 12:19:47. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5aSa546p5oiR55qE5LiW55WM55uS5a2Q5a6J6KOF5YyFLnJhcg$$.rar
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5aSa546p5oiR55qE5LiW55WM55uS5a2Q5a6J6KOF5YyFLnJhcg$$.rar
+
+[R] ========== Started Layer D:/wy-dl-0/mclauncher等6个文件/新的世界. ==========
+
+[R] ========== Started Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界. ==========
+
+[R] ========== Started Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/data. ==========
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/data/Mineshaft.dat has successfully been uploaded @2020/02/14 12:19:53. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/ZGF0YQ$$/TWluZXNoYWZ0LmRhdA$$.dat
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/ZGF0YQ$$/TWluZXNoYWZ0LmRhdA$$.dat
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/data/Stronghold.dat has successfully been uploaded @2020/02/14 12:19:56. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/ZGF0YQ$$/U3Ryb25naG9sZC5kYXQ$.dat
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/ZGF0YQ$$/U3Ryb25naG9sZC5kYXQ$.dat
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/data/villages.dat has successfully been uploaded @2020/02/14 12:19:59. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/ZGF0YQ$$/dmlsbGFnZXMuZGF0.dat
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/ZGF0YQ$$/dmlsbGFnZXMuZGF0.dat
+
+[R] ========== Finished Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/data. ==========
+
+[R] ========== Started Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/DIM-1. ==========
+
+[R] ========== Started Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/DIM-1/data. ==========
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/DIM-1/data/villages.dat has successfully been uploaded @2020/02/14 12:20:01. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/RElNLTE$/ZGF0YQ$$/dmlsbGFnZXMuZGF0.dat
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/RElNLTE$/ZGF0YQ$$/dmlsbGFnZXMuZGF0.dat
+
+[R] ========== Finished Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/DIM-1/data. ==========
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/DIM-1/forcedchunks.dat has successfully been uploaded @2020/02/14 12:20:04. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/RElNLTE$/Zm9yY2VkY2h1bmtzLmRhdA$$.dat
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/RElNLTE$/Zm9yY2VkY2h1bmtzLmRhdA$$.dat
+
+[R] ========== Finished Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/DIM-1. ==========
+
+[R] ========== Started Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/DIM1. ==========
+
+[R] ========== Started Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/DIM1/data. ==========
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/DIM1/data/villages.dat has successfully been uploaded @2020/02/14 12:20:07. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/RElNMQ$$/ZGF0YQ$$/dmlsbGFnZXMuZGF0.dat
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/RElNMQ$$/ZGF0YQ$$/dmlsbGFnZXMuZGF0.dat
+
+[R] ========== Finished Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/DIM1/data. ==========
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/DIM1/forcedchunks.dat has successfully been uploaded @2020/02/14 12:20:10. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/RElNMQ$$/Zm9yY2VkY2h1bmtzLmRhdA$$.dat
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/RElNMQ$$/Zm9yY2VkY2h1bmtzLmRhdA$$.dat
+
+[R] ========== Finished Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/DIM1. ==========
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/forcedchunks.dat has successfully been uploaded @2020/02/14 12:20:13. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/Zm9yY2VkY2h1bmtzLmRhdA$$.dat
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/Zm9yY2VkY2h1bmtzLmRhdA$$.dat
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/level.dat has successfully been uploaded @2020/02/14 12:20:16. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/bGV2ZWwuZGF0.dat
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/bGV2ZWwuZGF0.dat
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/level.dat_mcr has successfully been uploaded @2020/02/14 12:20:18. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/bGV2ZWwuZGF0X21jcg$$.dat_mcr
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/bGV2ZWwuZGF0X21jcg$$.dat_mcr
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/level.dat_old has successfully been uploaded @2020/02/14 12:20:21. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/bGV2ZWwuZGF0X29sZA$$.dat_old
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/bGV2ZWwuZGF0X29sZA$$.dat_old
+
+[R] ========== Started Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/playerdata. ==========
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/playerdata/9814a200-ef67-3d5e-ad94-b68b97f64c3f.dat has successfully been uploaded @2020/02/14 12:20:23. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cGxheWVyZGF0YQ$$/OTgxNGEyMDAtZWY2Ny0zZDVlLWFkOTQtYjY4Yjk3ZjY0YzNmLmRhdA$$.dat
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cGxheWVyZGF0YQ$$/OTgxNGEyMDAtZWY2Ny0zZDVlLWFkOTQtYjY4Yjk3ZjY0YzNmLmRhdA$$.dat
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/playerdata/c4ca4238-a0b9-2382-0dcc-509a6f75849b.dat has successfully been uploaded @2020/02/14 12:20:26. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cGxheWVyZGF0YQ$$/YzRjYTQyMzgtYTBiOS0yMzgyLTBkY2MtNTA5YTZmNzU4NDliLmRhdA$$.dat
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cGxheWVyZGF0YQ$$/YzRjYTQyMzgtYTBiOS0yMzgyLTBkY2MtNTA5YTZmNzU4NDliLmRhdA$$.dat
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/playerdata/f798e323-b270-30de-9547-b053e429138b.dat has successfully been uploaded @2020/02/14 12:20:28. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cGxheWVyZGF0YQ$$/Zjc5OGUzMjMtYjI3MC0zMGRlLTk1NDctYjA1M2U0MjkxMzhiLmRhdA$$.dat
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cGxheWVyZGF0YQ$$/Zjc5OGUzMjMtYjI3MC0zMGRlLTk1NDctYjA1M2U0MjkxMzhiLmRhdA$$.dat
+
+[R] ========== Finished Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/playerdata. ==========
+
+[R] ========== Started Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/region. ==========
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/region/r.-1.0.mca has successfully been uploaded @2020/02/14 12:20:36. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cmVnaW9u/ci4tMS4wLm1jYQ$$.mca
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cmVnaW9u/ci4tMS4wLm1jYQ$$.mca
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/region/r.-1.1.mca has successfully been uploaded @2020/02/14 12:20:41. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cmVnaW9u/ci4tMS4xLm1jYQ$$.mca
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cmVnaW9u/ci4tMS4xLm1jYQ$$.mca
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/region/r.0.0.mca has successfully been uploaded @2020/02/14 12:21:00. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cmVnaW9u/ci4wLjAubWNh.mca
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cmVnaW9u/ci4wLjAubWNh.mca
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/region/r.0.1.mca has successfully been uploaded @2020/02/14 12:21:08. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cmVnaW9u/ci4wLjEubWNh.mca
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cmVnaW9u/ci4wLjEubWNh.mca
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/region/r.1.0.mca has successfully been uploaded @2020/02/14 12:21:17. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cmVnaW9u/ci4xLjAubWNh.mca
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cmVnaW9u/ci4xLjAubWNh.mca
+
+[R] ========== Finished Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/region. ==========
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/session.lock has successfully been uploaded @2020/02/14 12:21:20. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/c2Vzc2lvbi5sb2Nr.lock
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/c2Vzc2lvbi5sb2Nr.lock
+
+[R] ========== Started Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/stats. ==========
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/stats/9814a200-ef67-3d5e-ad94-b68b97f64c3f.json has successfully been uploaded @2020/02/14 12:21:23. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/c3RhdHM$/OTgxNGEyMDAtZWY2Ny0zZDVlLWFkOTQtYjY4Yjk3ZjY0YzNmLmpzb24$.json
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/c3RhdHM$/OTgxNGEyMDAtZWY2Ny0zZDVlLWFkOTQtYjY4Yjk3ZjY0YzNmLmpzb24$.json
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/stats/c4ca4238-a0b9-2382-0dcc-509a6f75849b.json has successfully been uploaded @2020/02/14 12:21:27. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/c3RhdHM$/YzRjYTQyMzgtYTBiOS0yMzgyLTBkY2MtNTA5YTZmNzU4NDliLmpzb24$.json
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/c3RhdHM$/YzRjYTQyMzgtYTBiOS0yMzgyLTBkY2MtNTA5YTZmNzU4NDliLmpzb24$.json
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/stats/f798e323-b270-30de-9547-b053e429138b.json has successfully been uploaded @2020/02/14 12:21:30. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/c3RhdHM$/Zjc5OGUzMjMtYjI3MC0zMGRlLTk1NDctYjA1M2U0MjkxMzhiLmpzb24$.json
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/c3RhdHM$/Zjc5OGUzMjMtYjI3MC0zMGRlLTk1NDctYjA1M2U0MjkxMzhiLmpzb24$.json
+
+[R] ========== Finished Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/stats. ==========
+
+[R] ========== Started Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界. ==========
+
+[R] ========== Started Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/data. ==========
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/data/Mineshaft.dat has successfully been uploaded @2020/02/14 12:21:32. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/ZGF0YQ$$/TWluZXNoYWZ0LmRhdA$$.dat
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/ZGF0YQ$$/TWluZXNoYWZ0LmRhdA$$.dat
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/data/Stronghold.dat has successfully been uploaded @2020/02/14 12:21:35. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/ZGF0YQ$$/U3Ryb25naG9sZC5kYXQ$.dat
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/ZGF0YQ$$/U3Ryb25naG9sZC5kYXQ$.dat
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/data/villages.dat has successfully been uploaded @2020/02/14 12:21:37. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/ZGF0YQ$$/dmlsbGFnZXMuZGF0.dat
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/ZGF0YQ$$/dmlsbGFnZXMuZGF0.dat
+
+[R] ========== Finished Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/data. ==========
+
+[R] ========== Started Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/DIM-1. ==========
+
+[R] ========== Started Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/DIM-1/data. ==========
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/DIM-1/data/villages.dat has successfully been uploaded @2020/02/14 12:21:40. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/RElNLTE$/ZGF0YQ$$/dmlsbGFnZXMuZGF0.dat
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/RElNLTE$/ZGF0YQ$$/dmlsbGFnZXMuZGF0.dat
+
+[R] ========== Finished Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/DIM-1/data. ==========
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/DIM-1/forcedchunks.dat has successfully been uploaded @2020/02/14 12:21:42. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/RElNLTE$/Zm9yY2VkY2h1bmtzLmRhdA$$.dat
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/RElNLTE$/Zm9yY2VkY2h1bmtzLmRhdA$$.dat
+
+[R] ========== Finished Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/DIM-1. ==========
+
+[R] ========== Started Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/DIM1. ==========
+
+[R] ========== Started Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/DIM1/data. ==========
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/DIM1/data/villages.dat has successfully been uploaded @2020/02/14 12:21:45. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/RElNMQ$$/ZGF0YQ$$/dmlsbGFnZXMuZGF0.dat
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/RElNMQ$$/ZGF0YQ$$/dmlsbGFnZXMuZGF0.dat
+
+[R] ========== Finished Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/DIM1/data. ==========
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/DIM1/forcedchunks.dat has successfully been uploaded @2020/02/14 12:21:47. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/RElNMQ$$/Zm9yY2VkY2h1bmtzLmRhdA$$.dat
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/RElNMQ$$/Zm9yY2VkY2h1bmtzLmRhdA$$.dat
+
+[R] ========== Finished Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/DIM1. ==========
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/forcedchunks.dat has successfully been uploaded @2020/02/14 12:21:50. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/Zm9yY2VkY2h1bmtzLmRhdA$$.dat
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/Zm9yY2VkY2h1bmtzLmRhdA$$.dat
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/level.dat has successfully been uploaded @2020/02/14 12:21:52. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/bGV2ZWwuZGF0.dat
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/bGV2ZWwuZGF0.dat
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/level.dat_mcr has successfully been uploaded @2020/02/14 12:21:55. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/bGV2ZWwuZGF0X21jcg$$.dat_mcr
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/bGV2ZWwuZGF0X21jcg$$.dat_mcr
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/level.dat_old has successfully been uploaded @2020/02/14 12:21:57. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/bGV2ZWwuZGF0X29sZA$$.dat_old
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/bGV2ZWwuZGF0X29sZA$$.dat_old
+
+[R] ========== Started Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/playerdata. ==========
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/playerdata/9814a200-ef67-3d5e-ad94-b68b97f64c3f.dat has successfully been uploaded @2020/02/14 12:22:00. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cGxheWVyZGF0YQ$$/OTgxNGEyMDAtZWY2Ny0zZDVlLWFkOTQtYjY4Yjk3ZjY0YzNmLmRhdA$$.dat
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cGxheWVyZGF0YQ$$/OTgxNGEyMDAtZWY2Ny0zZDVlLWFkOTQtYjY4Yjk3ZjY0YzNmLmRhdA$$.dat
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/playerdata/c4ca4238-a0b9-2382-0dcc-509a6f75849b.dat has successfully been uploaded @2020/02/14 12:22:02. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cGxheWVyZGF0YQ$$/YzRjYTQyMzgtYTBiOS0yMzgyLTBkY2MtNTA5YTZmNzU4NDliLmRhdA$$.dat
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cGxheWVyZGF0YQ$$/YzRjYTQyMzgtYTBiOS0yMzgyLTBkY2MtNTA5YTZmNzU4NDliLmRhdA$$.dat
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/playerdata/f798e323-b270-30de-9547-b053e429138b.dat has successfully been uploaded @2020/02/14 12:22:05. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cGxheWVyZGF0YQ$$/Zjc5OGUzMjMtYjI3MC0zMGRlLTk1NDctYjA1M2U0MjkxMzhiLmRhdA$$.dat
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cGxheWVyZGF0YQ$$/Zjc5OGUzMjMtYjI3MC0zMGRlLTk1NDctYjA1M2U0MjkxMzhiLmRhdA$$.dat
+
+[R] ========== Finished Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/playerdata. ==========
+
+[R] ========== Started Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/region. ==========
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/region/r.-1.0.mca has successfully been uploaded @2020/02/14 12:22:12. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cmVnaW9u/ci4tMS4wLm1jYQ$$.mca
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cmVnaW9u/ci4tMS4wLm1jYQ$$.mca
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/region/r.-1.1.mca has successfully been uploaded @2020/02/14 12:22:17. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cmVnaW9u/ci4tMS4xLm1jYQ$$.mca
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cmVnaW9u/ci4tMS4xLm1jYQ$$.mca
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/region/r.0.0.mca has successfully been uploaded @2020/02/14 12:22:38. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cmVnaW9u/ci4wLjAubWNh.mca
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cmVnaW9u/ci4wLjAubWNh.mca
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/region/r.0.1.mca has successfully been uploaded @2020/02/14 12:22:46. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cmVnaW9u/ci4wLjEubWNh.mca
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cmVnaW9u/ci4wLjEubWNh.mca
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/region/r.1.0.mca has successfully been uploaded @2020/02/14 12:22:55. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cmVnaW9u/ci4xLjAubWNh.mca
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/cmVnaW9u/ci4xLjAubWNh.mca
+
+[R] ========== Finished Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/region. ==========
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/session.lock has successfully been uploaded @2020/02/14 12:22:58. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/c2Vzc2lvbi5sb2Nr.lock
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/c2Vzc2lvbi5sb2Nr.lock
+
+[R] ========== Started Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/stats. ==========
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/stats/9814a200-ef67-3d5e-ad94-b68b97f64c3f.json has successfully been uploaded @2020/02/14 12:23:00. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/c3RhdHM$/OTgxNGEyMDAtZWY2Ny0zZDVlLWFkOTQtYjY4Yjk3ZjY0YzNmLmpzb24$.json
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/c3RhdHM$/OTgxNGEyMDAtZWY2Ny0zZDVlLWFkOTQtYjY4Yjk3ZjY0YzNmLmpzb24$.json
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/stats/c4ca4238-a0b9-2382-0dcc-509a6f75849b.json has successfully been uploaded @2020/02/14 12:23:04. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/c3RhdHM$/YzRjYTQyMzgtYTBiOS0yMzgyLTBkY2MtNTA5YTZmNzU4NDliLmpzb24$.json
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/c3RhdHM$/YzRjYTQyMzgtYTBiOS0yMzgyLTBkY2MtNTA5YTZmNzU4NDliLmpzb24$.json
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/stats/f798e323-b270-30de-9547-b053e429138b.json has successfully been uploaded @2020/02/14 12:23:06. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/c3RhdHM$/Zjc5OGUzMjMtYjI3MC0zMGRlLTk1NDctYjA1M2U0MjkxMzhiLmpzb24$.json
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WM/c3RhdHM$/Zjc5OGUzMjMtYjI3MC0zMGRlLTk1NDctYjA1M2U0MjkxMzhiLmpzb24$.json
+
+[R] ========== Finished Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界/stats. ==========
+
+[R] ========== Finished Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界. ==========
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界.7z has successfully been uploaded @2020/02/14 12:23:29. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WMLjd6.7z
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WMLjd6.7z
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界/新的世界.zip has successfully been uploaded @2020/02/14 12:23:54. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WMLnppcA$$.zip
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WM/5paw55qE5LiW55WMLnppcA$$.zip
+
+[R] ========== Finished Layer D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界. ==========
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界.7z has successfully been uploaded @2020/02/14 12:25:19. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WMLjd6.7z
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WMLjd6.7z
+
+[R] ========== File D:/wy-dl-0/mclauncher等6个文件/新的世界/新的世界.zip has successfully been uploaded @2020/02/14 12:25:46. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WMLnppcA$$.zip
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/bWNsYXVuY2hlcuetiTbkuKrmlofku7Y$/5paw55qE5LiW55WM/5paw55qE5LiW55WMLnppcA$$.zip
+
+[R] ========== Finished Layer D:/wy-dl-0/mclauncher等6个文件/新的世界. ==========
+
+[R] ========== Finished Layer D:/wy-dl-0/mclauncher等6个文件. ==========
+
+[R] ========== File D:/wy-dl-0/英语教科书  必修 第二册.pdf has successfully been uploaded @2020/02/14 12:27:07. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/6Iux6K-t5pWZ56eR5LmmICDlv4Xkv64g56ys5LqM5YaMLnBkZg$$.pdf
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/6Iux6K-t5pWZ56eR5LmmICDlv4Xkv64g56ys5LqM5YaMLnBkZg$$.pdf
+
+[R] ========== File D:/wy-dl-0/英语教科书  必修 第二册.zip has successfully been uploaded @2020/02/14 12:28:21. ==========
+[R] File address:
+https://github.com/urlib/ubiquitous-dollop/raw/master/r0zAeqaVXP8SsCkI/6Iux6K-t5pWZ56eR5LmmICDlv4Xkv64g56ys5LqM5YaMLnppcA$$.zip
+[R] CDN Available. Address: https://cdn.jsdelivr.net/gh/urlib/ubiquitous-dollop/r0zAeqaVXP8SsCkI/6Iux6K-t5pWZ56eR5LmmICDlv4Xkv64g56ys5LqM5YaMLnppcA$$.zip
+
+[R] ========== Finished Layer D:/wy-dl-0/. ==========
+
+[N] 当且仅当输入绝对路径时，工作正常。
+输入你的文件位置：
