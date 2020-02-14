@@ -1,0 +1,12 @@
+Consumed Components for AMCore 19.9.0.286.2
+AMCore-Content 32-bit 19.9.0 19.9.0,513
+AMCore-Content 64-bit 19.9.0 19.9.0,512
+AMCore-MAIN 32-bit 19.9.0 19.9.0,504
+AMCore-MAIN 64-bit 19.9.0 19.9.0,505
+AMCore-KERNEL 19.9.0 19.9.0,257
+AMCore-UPDATE 32-bit 19.9.0 19.9.0,506
+AMCore-UPDATE 64-bit 19.9.0 19.9.0,507
+AMCore_SCANNERS 32-bit 19.9.0 19.9.0,507
+AMCore_SCANNERS 64-bit 19.9.0 19.9.0,508
+VSCORE 19.9.0 174
+AVEngine 6010 8670.4
