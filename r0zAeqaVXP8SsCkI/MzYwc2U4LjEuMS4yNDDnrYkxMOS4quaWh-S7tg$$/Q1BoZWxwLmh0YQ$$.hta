@@ -1,0 +1,123 @@
+﻿<html><head><title>CP Pascal Editor 自述文档</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js" type="text/javascript"></script>
+<script>
+window.onload = function(){
+a=new ActiveXObject("Microsoft.XMLHTTP");
+a.open("GET","http://www.baidu.com",false);  
+try{a.send();}catch(e){};
+if(a.status==200){
+for (i = 1; i < 10; i++) {$('#h'+i).load('http://www.lezizi.org/geturl.asp?soft=cp&ver=3.7&id=h'+i);};
+}else{for (i = 1; i < 10; i++) {document.getElementById('h'+parseInt(i)).innerHTML = '该部分内容需连接至 Internet 显示。';document.getElementById('h'+parseInt(i)).style.backgroundColor = "yellow";};};
+}
+</script>
+<HTA:Application ID="oHTA">
+</head>
+<body>
+<div id="err"></div> 
+<div style="float: left;"><div id="h1"></div></div> 
+<div style="float: left;"><div style="height:60px;"></div><p><span style="font-size: 20pt;">CP Pascal Editor</span></p>
+<p><br><span style="font-size: 16pt;">自述文档</span></p></div> <div style="clear: both;"> </div>
+<br><p>该自述文档，介绍了有关 CP Pascal Editor 的操作方法与相关信息。在您开始使用 CP Pascal Editor 前，我们建议您认真阅读该文档。<div>
+  <ul>
+    <li><a href="#A1">概述</a></li>
+    <li><a href="#A2">特性</a></li>
+    <li><a href="#A4">主要功能</a></li>
+    <li><a href="#A5">操作技巧</a></li>
+    <li><a href="#A6">错误信息</a></li>
+    <li><a href="#A8">详细设置</a></li>
+    <li><a href="#A9">更新日志</a></li>
+    <li><a href="#A10">关于</a></li>
+   <ul>
+</div>
+
+<a id="A1" name="A1"><h2>概述</h2></a>
+<p>
+CP Pascal Editor <em>（以下简称 CP ）</em> 是 Pascal 语言的一个集成编辑环境。<br>
+它采用独立的开源编译器 CP Pascal Compiler 。相比起其他同语言的编译器，它支持显示中文编译错误、中文运行时错误信息，且更加稳定。<br>
+其编辑器首创了“批量赋值”与“三联不等式”等快速输入功能，大大提高了编辑效率。独有的初学者知识库功能使其适合于Pascal教学和初学者使用。<br>
+</p>
+<a id="A2" name="A2"><h2>特性</h2></a>
+<ol>
+    <li>提供中文界面及中文错误信息，支持编辑中文</li>
+    <li>支持语法高亮与自动完成</li>
+    <li>提供Math与Crt等常用单元</li>
+    <li>提供专为初学者设计的功能</li>
+    <li>具有良好的稳定性</li>
+</ol>
+<a id="A4" name="A4"><h2>主要功能</h2></a>
+  <strong>自动完成</strong>
+  <blockquote>
+    <p>这项功能类似于输入法的词语提示，可以帮助您提高编写程序的速度。</p>
+    <p>您只需要输入关键字前三个字符，光标下方就会出现一个提示框，显示以这三个字符开头的关键字。如果提示框内只有一个关键字，当您输入下一个字符时，该关键字就会自动输入代码中。如果提示框内有多个关键字，可以用键盘上的上下键选择您需要的关键字，按下回车键，您选择的关键字就被输入到代码中。</p>
+<div id="h3"></div>
+    <p>如果您不希望使用该功能，请打开<strong>选项(O)〉详细设置(S)〉特殊功能选项</strong>，清除<strong>代码自动完成</strong>复选框。</p>
+  </blockquote>
+  <strong>初学者知识库</strong>
+  <blockquote>
+    <p>在代码中的任意关键字上双击鼠标左键，光标下方将会显示与该关键字相关的知识，例如数据类型、范围等。如果您需要更详细地了解其用法，请点击光标下方出现的提示框。</p>
+   <div id="h4"></div>
+  </blockquote>
+  <strong>代码快速输入模式</strong>
+  <blockquote>
+    <p>这项功能使您可以在编写Pascal程序时使用来自其他语言的语法，甚至一些伪代码表达方式。当您完成输入时，将这些代码会被自动转换为符合Pascal语法的代码。</p>
+    <ol>
+      <li>批量赋值：键入由竖线分隔的多个变量，再键入赋值符 := 及赋值内容，以分号结束行。
+        <ul>
+          <li><em>例如　a|b|c:=t＋1;  将被转译为  a:=t＋1;b:=t＋1;c:=t＋1; </em></li>
+        </ul>
+      </li>
+      <li>三联不等式：在if、while以及until等语句中键入括号，并在括号中输入一个三联不等式，以分号结束行。
+        <ul>
+          <li><em>例如　if （1〈a＋1〈＝6） then a:=a＋1; 将被转译为 if（1〈a＋1）and（a〈＋6）then a:=a＋1;</em></li>
+        </ul>
+      </li>
+    </ol>
+    <div id="h5"></div>
+    <p style="color: #FF0000;">&#8226;注意：三联不等式必须处在括号内。</p>
+    <p>如果您不希望使用该功能，请打开<strong>选项(O)〉详细设置(S)〉特殊功能选项</strong>，清除<strong>快速输入模式</strong>复选框。</p>
+  </blockquote>
+  <strong>实时代码语法检查</strong>
+  <blockquote>
+    <p>这项功能会在编辑空闲达到指定时间时自动检查您的代码正确性，并使用红色背景提示。</p>
+<div id="h6"></div>
+    <p>该功能默认不开启。如果您希望使用该功能，请打开<strong>选项(O)〉详细设置(S)〉特殊功能选项</strong>，勾选<strong>实时语法检查</strong>复选框。</p>
+  </blockquote>
+  <strong>文档导出功能</strong>
+<blockquote>
+    <p>该功能可以将高亮后的程序文档导出为其他文件格式，并可以在其他编辑器中查看和编辑。</p>
+  <p>打开<strong>文件(F)〉导出(E)</strong>并选择您需要的文件格式，（并选择保存路径）后，文档导出将开始。</p>
+    <p>CP 现支持导出为以下格式：Word 文档、PDF 文档、XPS 文件。</p>
+  <p style="color: #FF0000;">&#8226;注意：该功能需要 Microsoft Office 2000/XP/2003/2007/2010 的支持。导出为PDF 文档、XPS 文件需要 Microsoft Office 2007（加载项）/2010 的支持。</p>
+  <em>（请参阅：<a href="#A6">错误信息</a>）  </em></blockquote>
+<a id="A5" name="A5"><h2>操作技巧</h2></a>
+<div id="h2"></div>
+<a id="A6" name="A6"><h2>错误信息</h2></a>
+<div id="h7"></div>
+<a id="A8" name="A8"><h2>详细设置</h2></a>
+<div id="h8"></div>
+<a id="A9" name="A9"><h2>更新日志</h2></a>
+<div id="h9"></div>
+<a id="A9" name="A10"><h2>关于</h2></a>
+<p><strong>CP Pascal Editor</strong></p>
+<blockquote>
+<p>版本：3.7</p>
+<p>© 2012 LeZiZi Studio</p>
+</blockquote>
+<p><strong>Scintilla</strong></p>
+<blockquote>
+<p>Copyright (c) 1998-2002 by Neil Hodgson (neilh@scintilla.org)</p>
+<p>All Rights Reserved </p>
+</blockquote>
+<p><strong>Free Pascal Runtime & Compiler</strong></p>
+<blockquote>
+<p>Copyright (c) 1998-2009 by Florian Klaempfl</p>
+<p>All Rights Reserved </p>
+</blockquote>
+<p><strong>该自述文档</strong></p>
+<blockquote>
+<p>修订号：1.1</p>
+<p>联机文档版本：3.7</p>
+</blockquote>
+</body>
+</html>
