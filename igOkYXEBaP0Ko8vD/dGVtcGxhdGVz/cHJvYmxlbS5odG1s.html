@@ -1,0 +1,55 @@
+{% extends "layout.html" %}
+
+{% block title %}
+	{{ oj.name }}
+	{{ problem.pid }}
+	<i class="mdui-icon material-icons">chevron_right</i>
+	{{ problem_info.title }}
+{% endblock %}
+
+{% block page_title %}
+	{{ oj.name }}{{ problem.pid }}
+	{{ problem_info.title }}
+{% endblock %}
+
+{% block main %}
+<div class="problem-infobar">
+	<div class="btn-group mdui-btn-group problem-button-group left">
+		<a class="btn btn-active mdui-btn mdui-ripple mdui-ripple-white" target="_blank" href="{{ problem_info.url }}">
+			<i class="mdui-icon material-icons">open_in_new</i>
+		</a>
+		{% if oj.submit_link %}
+		<a class="btn mdui-btn mdui-ripple mdui-ripple-white" target="_blank" href="{{ oj.submit_link.format(pid=problem.pid) }}">提交</a>
+		{% endif %}
+		{% if oj.testdata_link %}
+		<a class="btn mdui-btn mdui-ripple mdui-ripple-white" target="_blank" href="{{ oj.testdata_link.format(pid=problem.pid) }}">测试数据</a>
+		{% endif %}
+		{% if oj.submission_link %}
+		<a class="btn mdui-btn mdui-ripple mdui-ripple-white" target="_blank" href="{{ oj.submission_link.format(pid=problem.pid) }}">提交记录</a>
+		{% endif %}
+		{% if oj.statistics_link %}
+		<a class="btn mdui-btn mdui-ripple mdui-ripple-white" target="_blank" href="{{ oj.statistics_link.format(pid=problem.pid) }}">统计</a>
+		{% endif %}
+		{% if oj.discussion_link %}
+		<a class="btn mdui-btn mdui-ripple mdui-ripple-white" target="_blank" href="{{ oj.discussion_link.format(pid=problem.pid) }}">讨论</a>
+		{% endif %}
+	</div>
+	<div class="btn-group mdui-btn-group problem-button-group right">
+		<button class="btn mdui-btn mdui-ripple">{{ problem_info.time }} ms</buttuon>
+		<button class="btn mdui-btn mdui-ripple">{{ problem_info.memory }} MB</buttuon>
+		{% if problem_info.judge %}
+		<button class="btn mdui-btn mdui-ripple">{{ problem_info.judge }}</buttuon>
+		{% endif %}
+	</div>
+</div>
+{% for title, content in problem_data.items() %}
+	<div class="mdui-card problem-card">
+		<div class="mdui-card-primary">
+			<div class="mdui-card-primary-title">{{ title }}</div>
+		</div>
+		<div class="mdui-card-content mdui-typo">
+			{{ content | safe }}
+		</div>
+	</div>
+{% endfor %}
+{% endblock %}
