@@ -1,0 +1,1603 @@
+06/02/20 22:55:39 .\Main.cpp: 108: 
+06/02/20 22:55:39 .\Main.cpp: 109: 
+06/02/20 22:55:39 .\Main.cpp: 110: ###**********************************************************************************
+06/02/20 22:55:39 .\Main.cpp: 111: Beginning AMCore Installation/Uninstallation sequence
+06/02/20 22:55:39 .\Main.cpp: 112: ###**********************************************************************************
+06/02/20 22:55:39 .\Main.cpp: 113: Command Line : ""C:\Program Files\Common Files\McAfee\Casper\mfeamcin.exe" -r -x "C:\Program Files\Common Files\McAfee\Casper\mfeavsinst_vso16.xml" -s "C:\Program Files\Common Files\McAfee\Casper\mfelamamconfig.xml" -d "C:\Program Files\Common Files\McAfee\AMCore" -c "C:\Program Files\Common Files\McAfee\AMContent" -q "C:\ProgramData\McAfee\VirusScan\Quarantine" -l "C:\ProgramData\McAfee\MCLOGS\casper_lam_installer.log""
+06/02/20 22:55:39 .\Main.cpp: 114: Operating System : 10000
+06/02/20 22:55:39 .\IInstallable.cpp: 179: System directory is C:\WINDOWS\system32\
+06/02/20 22:55:39 .\IInstallable.cpp: 197: 32-bit Syscore installation directory is C:\Program Files (x86)\Common Files\McAfee\SystemCore
+06/02/20 22:55:39 .\IInstallable.cpp: 198: 64-bit Syscore installation directory is C:\Program Files\Common Files\McAfee\SystemCore
+06/02/20 22:55:39 .\IInstallable.cpp: 214: Program Files directory is C:\Program Files\
+06/02/20 22:55:39 .\IInstallable.cpp: 223: Program Files (x86) directory is C:\Program Files (x86)\
+06/02/20 22:55:39 .\IInstallable.cpp: 230: Program Files\Commmon Files directory is C:\Program Files\Common Files\
+06/02/20 22:55:39 .\IInstallable.cpp: 239: Program Files (x86)\Common Files directory is C:\Program Files (x86)\Common Files\
+06/02/20 22:55:39 .\IInstallable.cpp: 245: ProgramData is C:\ProgramData\
+06/02/20 22:55:39 .\MMService.cpp: 36: Entered function MMService::MMService
+06/02/20 22:55:39 .\MMService.cpp: 48: Exiting function MMService::MMService
+06/02/20 22:55:39 .\AccessProtection.cpp: 30: Entered function AccessProtection::AccessProtection
+06/02/20 22:55:39 .\AccessProtection.cpp: 31: Exiting function AccessProtection::AccessProtection
+06/02/20 22:55:39 .\Main.cpp: 142: AMCore Version: 19.9.0.286.1
+06/02/20 22:55:39 .\telemetry.cpp: 371: Failed to read TS log level
+06/02/20 22:55:39 .\telemetry.cpp: 227: Failed to read install count for version 19.9.0.286.1
+06/02/20 22:55:39 .\Main.cpp: 154: Checking that content path C:\Program Files\Common Files\McAfee\AMContent is case insensitive
+06/02/20 22:55:39 .\Main.cpp: 163: Checking that quarantine path C:\ProgramData\McAfee\VirusScan\Quarantine is case insensitive
+06/02/20 22:55:39 .\installer.cpp: 622: Entered function PerformAction
+06/02/20 22:55:39 .\IInstallable.cpp: 361: Product Guid is E179F170-519B-469d-AF72-BF56E2B1EED7
+06/02/20 22:55:39 .\Package.cpp: 245: Entered function Package::CheckCompatibility
+06/02/20 22:55:39 .\Package.cpp: 996: Entered function Feature::IsPlatformEnabled
+06/02/20 22:55:39 .\Package.cpp: 1020: Exiting function Feature::IsPlatformEnabled
+06/02/20 22:55:39 .\Package.cpp: 1027: Entered function Feature::IsProcessorCompatible
+06/02/20 22:55:39 .\Package.cpp: 1046: Exiting function Feature::IsProcessorCompatible
+06/02/20 22:55:39 .\Package.cpp: 260: Exiting function Package::CheckCompatibility  with result 0x0
+06/02/20 22:55:39 .\IInstallable.cpp: 338: Existing Quarantine directory is C:\ProgramData\McAfee\VirusScan\Quarantine
+06/02/20 22:55:39 .\installer.cpp: 725: Repairing AMCore
+06/02/20 22:55:39 .\installer.cpp: 457: Entered function Repair
+06/02/20 22:55:39 .\installer.cpp: 462: Checking to see if new version : 19.9.0.286.1 is later or equal to currently installed version : 19.7.0.54.12
+06/02/20 22:55:39 .\installer.cpp: 415: Entered function IsRepairable
+06/02/20 22:55:39 .\Package.cpp: 347: Entered function Package::StopServices
+06/02/20 22:55:39 .\Package.cpp: 967: Entered function Feature::StopServices
+06/02/20 22:55:39 .\MMService.cpp: 208: Entered function MMService::UnInstall
+06/02/20 22:55:40 .\MMService.cpp: 238: Exiting function MMService::UnInstall
+06/02/20 22:55:40 .\Package.cpp: 990: Exiting function Feature::StopServices
+06/02/20 22:55:40 .\Package.cpp: 359: Exiting function Package::StopServices
+06/02/20 22:55:40 .\installer.cpp: 438: StopService returned error-code: 0
+06/02/20 22:55:40 .\installer.cpp: 440: Continue with repair action. Returning Success.
+06/02/20 22:55:40 .\installer.cpp: 448: Exiting function IsRepairable  with result 0
+06/02/20 22:55:40 .\CPolicy.cpp: 33: Installing Policy: ODS
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\primaryactiondefault. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\secondaryactiondefault. Value 2
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\primaryactionvirus. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\secondaryactionvirus. Value 2
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\primaryactionpup. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\secondaryactionpup. Value 2
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\primaryactiontrojan. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\secondaryactiontrojan. Value 2
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\perftradeoff. Value 3
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\falserisktradeoff. Value 3
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\archivedecompositionstate. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\scanmime. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\enablemacroheuristics. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\enableprogramheuristics. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\scantimeout. Value 60000
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\primaryactionspyware. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\secondaryactionspyware. Value 2
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\primaryactionadware. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\secondaryactionadware. Value 2
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\primaryactionremoteadmin. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\secondaryactionremoteadmin. Value 2
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\primaryactiondialer. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\secondaryactiondialer. Value 2
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\primaryactionpwdcracker. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\secondaryactionpwdcracker. Value 2
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\primaryactionjoke. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\secondaryactionjoke. Value 2
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\primaryactionkeylogger. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\secondaryactionkeylogger. Value 2
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\reportknowngood. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\reportclean. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\reporterror. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\reportprogress. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\archivedepth. Value 24
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\disablenetworkscanrepair. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\disablenetworkscan. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\contextidlist. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\usedeleteonreboot. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\useserverflag. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\useunbufferedio. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\customextension. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\disabledetection. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\exclusions. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\unwantedfiles. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\exclusiondetection. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\extensionoption. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\usecache. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\scanallfilesinarchive. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\gtilookuplevel. Value 3
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\archivetimeout. Value 90000
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\enablegtifeedback. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\knowngoodlongevity. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\repairbackupfiles. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\repairbackuppup. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\failedbackupaction. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\ODS\enablemultipleheuristics. Value 0
+06/02/20 22:55:40 .\CPolicy.cpp: 33: Installing Policy: LAMODSTRUSTSCAN
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSTRUSTSCAN\primaryactiondefault. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSTRUSTSCAN\secondaryactiondefault. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSTRUSTSCAN\primaryactionvirus. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSTRUSTSCAN\secondaryactionvirus. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSTRUSTSCAN\primaryactiontrojan. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSTRUSTSCAN\secondaryactiontrojan. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSTRUSTSCAN\primaryactionspyware. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSTRUSTSCAN\secondaryactionspyware. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSTRUSTSCAN\primaryactionadware. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSTRUSTSCAN\secondaryactionadware. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSTRUSTSCAN\primaryactionremoteadmin. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSTRUSTSCAN\secondaryactionremoteadmin. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSTRUSTSCAN\primaryactiondialer. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSTRUSTSCAN\secondaryactiondialer. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSTRUSTSCAN\primaryactionpwdcracker. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSTRUSTSCAN\secondaryactionpwdcracker. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSTRUSTSCAN\primaryactionjoke. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSTRUSTSCAN\secondaryactionjoke. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSTRUSTSCAN\primaryactionkeylogger. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSTRUSTSCAN\secondaryactionkeylogger. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSTRUSTSCAN\primaryactionpup. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSTRUSTSCAN\secondaryactionpup. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSTRUSTSCAN\contextidlist. Value 20480￿34816￿36865￿61487
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSTRUSTSCAN\usetrust. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSTRUSTSCAN\scantimeout. Value 3000
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSTRUSTSCAN\archivetimeout. Value 3000
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSTRUSTSCAN\enablegtifeedback. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSTRUSTSCAN\gtilookuplevel. Value 0
+06/02/20 22:55:40 .\CPolicy.cpp: 33: Installing Policy: LAMODSSCAN
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\primaryactiondefault. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\secondaryactiondefault. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\primaryactionvirus. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\secondaryactionvirus. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\primaryactiontrojan. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\secondaryactiontrojan. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\primaryactionspyware. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\secondaryactionspyware. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\primaryactionadware. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\secondaryactionadware. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\primaryactionremoteadmin. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\secondaryactionremoteadmin. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\primaryactiondialer. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\secondaryactiondialer. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\primaryactionpwdcracker. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\secondaryactionpwdcracker. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\primaryactionjoke. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\secondaryactionjoke. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\primaryactionkeylogger. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\secondaryactionkeylogger. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\primaryactionpup. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\secondaryactionpup. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\archivedepth. Value 5
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\scanallfilesinarchive. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\enablemacroheuristics. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\enableprogramheuristics. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\reportknowngood. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\usedeleteonreboot. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\scanmime. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\disablenetworkscanrepair. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\disablenetworkscan. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\extensionoption. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\usecache. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\ioutilization. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\cpuutilization. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\repairbackupfiles. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\failedbackupaction. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\archivedecompositionstate. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\contextidlist. Value 20480￿34816￿36865
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\scantimeout. Value 300000
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\archivetimeout. Value 300000
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\enablegtifeedback. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\gtilookuplevel. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\perftradeoff. Value 3
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\falserisktradeoff. Value 3
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\reportclean. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\reporterror. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\reportprogress. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\useserverflag. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\useunbufferedio. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\customextension. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\disabledetection. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\exclusions. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\unwantedfiles. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\exclusiondetection. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\knowngoodlongevity. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\repairbackuppup. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMODSSCAN\enablemultipleheuristics. Value 0
+06/02/20 22:55:40 .\CPolicy.cpp: 33: Installing Policy: LAMEVENTSCAN
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\primaryactiondefault. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\secondaryactiondefault. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\primaryactionvirus. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\secondaryactionvirus. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\primaryactiontrojan. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\secondaryactiontrojan. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\primaryactionspyware. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\secondaryactionspyware. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\primaryactionadware. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\secondaryactionadware. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\primaryactionremoteadmin. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\secondaryactionremoteadmin. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\primaryactiondialer. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\secondaryactiondialer. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\primaryactionpwdcracker. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\secondaryactionpwdcracker. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\primaryactionjoke. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\secondaryactionjoke. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\primaryactionkeylogger. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\secondaryactionkeylogger. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\primaryactionpup. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\secondaryactionpup. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\enablemacroheuristics. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\enableprogramheuristics. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\reportknowngood. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\usedeleteonreboot. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\scanmime. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\disablenetworkscanrepair. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\disablenetworkscan. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\extensionoption. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\usecache. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\ioutilization. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\cpuutilization. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\repairbackupfiles. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\failedbackupaction. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\archivedecompositionstate. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\contextidlist. Value 20480￿34816￿36894
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\scantimeout. Value 60000
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\archivetimeout. Value 60000
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\enablegtifeedback. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\gtilookuplevel. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\perftradeoff. Value 3
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\falserisktradeoff. Value 3
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\reportclean. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\reporterror. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\reportprogress. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\useserverflag. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\useunbufferedio. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\customextension. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\disabledetection. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\exclusions. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\unwantedfiles. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\exclusiondetection. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\knowngoodlongevity. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\repairbackuppup. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEVENTSCAN\enablemultipleheuristics. Value 0
+06/02/20 22:55:40 .\CPolicy.cpp: 33: Installing Policy: LAMPATHREPAIROAS
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\primaryactiondefault. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\secondaryactiondefault. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\primaryactionvirus. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\secondaryactionvirus. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\primaryactiontrojan. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\secondaryactiontrojan. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\primaryactionspyware. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\secondaryactionspyware. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\primaryactionadware. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\secondaryactionadware. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\primaryactionremoteadmin. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\secondaryactionremoteadmin. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\primaryactiondialer. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\secondaryactiondialer. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\primaryactionpwdcracker. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\secondaryactionpwdcracker. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\primaryactionjoke. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\secondaryactionjoke. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\primaryactionkeylogger. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\secondaryactionkeylogger. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\primaryactionpup. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\secondaryactionpup. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\archivedepth. Value 5
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\scanallfilesinarchive. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\enablemacroheuristics. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\enableprogramheuristics. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\reportknowngood. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\usedeleteonreboot. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\scanmime. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\disablenetworkscanrepair. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\disablenetworkscan. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\extensionoption. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\usecache. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\ioutilization. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\cpuutilization. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\repairbackupfiles. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\failedbackupaction. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\archivedecompositionstate. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\contextidlist. Value 20480￿34816￿36894￿34817
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\scantimeout. Value 60000
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\archivetimeout. Value 60000
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\enablegtifeedback. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\gtilookuplevel. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\perftradeoff. Value 3
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\falserisktradeoff. Value 3
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\reportclean. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\reporterror. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\reportprogress. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\useserverflag. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\useunbufferedio. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\customextension. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\disabledetection. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\exclusions. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\unwantedfiles. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\exclusiondetection. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\knowngoodlongevity. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\repairbackuppup. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIROAS\enablemultipleheuristics. Value 0
+06/02/20 22:55:40 .\CPolicy.cpp: 33: Installing Policy: LAMPATHREPAIRODS
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\primaryactiondefault. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\secondaryactiondefault. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\primaryactionvirus. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\secondaryactionvirus. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\primaryactiontrojan. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\secondaryactiontrojan. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\primaryactionspyware. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\secondaryactionspyware. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\primaryactionadware. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\secondaryactionadware. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\primaryactionremoteadmin. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\secondaryactionremoteadmin. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\primaryactiondialer. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\secondaryactiondialer. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\primaryactionpwdcracker. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\secondaryactionpwdcracker. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\primaryactionjoke. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\secondaryactionjoke. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\primaryactionkeylogger. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\secondaryactionkeylogger. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\primaryactionpup. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\secondaryactionpup. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\archivedepth. Value 5
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\scanallfilesinarchive. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\enablemacroheuristics. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\enableprogramheuristics. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\reportknowngood. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\usedeleteonreboot. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\scanmime. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\disablenetworkscanrepair. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\disablenetworkscan. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\extensionoption. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\usecache. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\ioutilization. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\cpuutilization. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\repairbackupfiles. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\failedbackupaction. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\archivedecompositionstate. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\contextidlist. Value 20480￿34816￿36865￿34817
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\scantimeout. Value 60000
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\archivetimeout. Value 60000
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\enablegtifeedback. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\gtilookuplevel. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\perftradeoff. Value 3
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\falserisktradeoff. Value 3
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\reportclean. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\reporterror. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\reportprogress. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\useserverflag. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\useunbufferedio. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\customextension. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\disabledetection. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\exclusions. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\unwantedfiles. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\exclusiondetection. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\knowngoodlongevity. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\repairbackuppup. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPATHREPAIRODS\enablemultipleheuristics. Value 0
+06/02/20 22:55:40 .\CPolicy.cpp: 33: Installing Policy: LAMDATREPAIROAS
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\primaryactiondefault. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\secondaryactiondefault. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\primaryactionvirus. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\secondaryactionvirus. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\primaryactiontrojan. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\secondaryactiontrojan. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\primaryactionspyware. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\secondaryactionspyware. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\primaryactionadware. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\secondaryactionadware. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\primaryactionremoteadmin. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\secondaryactionremoteadmin. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\primaryactiondialer. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\secondaryactiondialer. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\primaryactionpwdcracker. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\secondaryactionpwdcracker. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\primaryactionjoke. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\secondaryactionjoke. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\primaryactionkeylogger. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\secondaryactionkeylogger. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\primaryactionpup. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\secondaryactionpup. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\archivedepth. Value 5
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\scanallfilesinarchive. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\enablemacroheuristics. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\enableprogramheuristics. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\reportknowngood. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\usedeleteonreboot. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\scanmime. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\disablenetworkscanrepair. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\disablenetworkscan. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\extensionoption. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\usecache. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\ioutilization. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\cpuutilization. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\repairbackupfiles. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\failedbackupaction. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\archivedecompositionstate. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\contextidlist. Value 20480￿34816￿36894
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\scantimeout. Value 60000
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\archivetimeout. Value 60000
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\enablegtifeedback. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\gtilookuplevel. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\perftradeoff. Value 3
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\falserisktradeoff. Value 3
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\reportclean. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\reporterror. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\reportprogress. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\useserverflag. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\useunbufferedio. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\customextension. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\disabledetection. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\exclusions. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\unwantedfiles. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\exclusiondetection. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\knowngoodlongevity. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\repairbackuppup. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIROAS\enablemultipleheuristics. Value 0
+06/02/20 22:55:40 .\CPolicy.cpp: 33: Installing Policy: LAMDATREPAIRODS
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\primaryactiondefault. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\secondaryactiondefault. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\primaryactionvirus. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\secondaryactionvirus. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\primaryactiontrojan. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\secondaryactiontrojan. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\primaryactionspyware. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\secondaryactionspyware. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\primaryactionadware. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\secondaryactionadware. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\primaryactionremoteadmin. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\secondaryactionremoteadmin. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\primaryactiondialer. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\secondaryactiondialer. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\primaryactionpwdcracker. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\secondaryactionpwdcracker. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\primaryactionjoke. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\secondaryactionjoke. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\primaryactionkeylogger. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\secondaryactionkeylogger. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\primaryactionpup. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\secondaryactionpup. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\archivedepth. Value 5
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\scanallfilesinarchive. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\enablemacroheuristics. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\enableprogramheuristics. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\reportknowngood. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\usedeleteonreboot. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\scanmime. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\disablenetworkscanrepair. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\disablenetworkscan. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\extensionoption. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\usecache. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\ioutilization. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\cpuutilization. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\repairbackupfiles. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\failedbackupaction. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\archivedecompositionstate. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\contextidlist. Value 20480￿34816￿36865
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\scantimeout. Value 60000
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\archivetimeout. Value 60000
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\enablegtifeedback. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\gtilookuplevel. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\perftradeoff. Value 3
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\falserisktradeoff. Value 3
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\reportclean. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\reporterror. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\reportprogress. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\useserverflag. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\useunbufferedio. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\customextension. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\disabledetection. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\exclusions. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\unwantedfiles. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\exclusiondetection. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\knowngoodlongevity. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\repairbackuppup. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMDATREPAIRODS\enablemultipleheuristics. Value 0
+06/02/20 22:55:40 .\CPolicy.cpp: 33: Installing Policy: LAMPROCESSSCAN
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\primaryactiondefault. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\secondaryactiondefault. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\primaryactionvirus. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\secondaryactionvirus. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\primaryactiontrojan. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\secondaryactiontrojan. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\primaryactionspyware. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\secondaryactionspyware. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\primaryactionadware. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\secondaryactionadware. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\primaryactionremoteadmin. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\secondaryactionremoteadmin. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\primaryactiondialer. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\secondaryactiondialer. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\primaryactionpwdcracker. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\secondaryactionpwdcracker. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\primaryactionjoke. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\secondaryactionjoke. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\primaryactionkeylogger. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\secondaryactionkeylogger. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\primaryactionpup. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\secondaryactionpup. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\scanallfilesinarchive. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\enablemacroheuristics. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\enableprogramheuristics. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\reportknowngood. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\usedeleteonreboot. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\scanmime. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\disablenetworkscanrepair. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\disablenetworkscan. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\extensionoption. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\usecache. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\ioutilization. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\cpuutilization. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\repairbackupfiles. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\failedbackupaction. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\archivedecompositionstate. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\contextidlist. Value 20480￿34816￿36894
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\scantimeout. Value 60000
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\archivetimeout. Value 60000
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\enablegtifeedback. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\gtilookuplevel. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\perftradeoff. Value 3
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\falserisktradeoff. Value 3
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\reportclean. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\reporterror. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\reportprogress. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\useserverflag. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\useunbufferedio. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\customextension. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\disabledetection. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\exclusions. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\unwantedfiles. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\exclusiondetection. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\knowngoodlongevity. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\repairbackuppup. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMPROCESSSCAN\enablemultipleheuristics. Value 0
+06/02/20 22:55:40 .\CPolicy.cpp: 33: Installing Policy: LAMROOTKITSCAN
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\primaryactiondefault. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\secondaryactiondefault. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\primaryactionvirus. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\secondaryactionvirus. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\primaryactiontrojan. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\secondaryactiontrojan. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\primaryactionspyware. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\secondaryactionspyware. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\primaryactionadware. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\secondaryactionadware. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\primaryactionremoteadmin. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\secondaryactionremoteadmin. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\primaryactiondialer. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\secondaryactiondialer. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\primaryactionpwdcracker. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\secondaryactionpwdcracker. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\primaryactionjoke. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\secondaryactionjoke. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\primaryactionkeylogger. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\secondaryactionkeylogger. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\primaryactionpup. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\secondaryactionpup. Value 4
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\archivedepth. Value 5
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\scanallfilesinarchive. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\enablemacroheuristics. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\enableprogramheuristics. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\reportknowngood. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\usedeleteonreboot. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\scanmime. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\disablenetworkscanrepair. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\disablenetworkscan. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\extensionoption. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\usecache. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\ioutilization. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\cpuutilization. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\repairbackupfiles. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\failedbackupaction. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\archivedecompositionstate. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\contextidlist. Value 20480￿34816￿101
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\scantimeout. Value 60000
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\archivetimeout. Value 60000
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\enablegtifeedback. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\gtilookuplevel. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\perftradeoff. Value 3
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\falserisktradeoff. Value 3
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\reportclean. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\reporterror. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\reportprogress. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\useserverflag. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\useunbufferedio. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\customextension. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\disabledetection. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\exclusions. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\unwantedfiles. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\exclusiondetection. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\knowngoodlongevity. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\repairbackuppup. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMROOTKITSCAN\enablemultipleheuristics. Value 0
+06/02/20 22:55:40 .\CPolicy.cpp: 33: Installing Policy: LAMEMAILSCAN
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\primaryactiondefault. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\secondaryactiondefault. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\primaryactionvirus. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\secondaryactionvirus. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\primaryactiontrojan. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\secondaryactiontrojan. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\primaryactionspyware. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\secondaryactionspyware. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\primaryactionadware. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\secondaryactionadware. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\primaryactionremoteadmin. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\secondaryactionremoteadmin. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\primaryactiondialer. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\secondaryactiondialer. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\primaryactionpwdcracker. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\secondaryactionpwdcracker. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\primaryactionjoke. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\secondaryactionjoke. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\primaryactionkeylogger. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\secondaryactionkeylogger. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\primaryactionpup. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\secondaryactionpup. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\archivedepth. Value 5
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\scanallfilesinarchive. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\enablemacroheuristics. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\enableprogramheuristics. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\reportknowngood. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\usedeleteonreboot. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\scanmime. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\disablenetworkscanrepair. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\disablenetworkscan. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\extensionoption. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\usecache. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\ioutilization. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\cpuutilization. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\repairbackupfiles. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\failedbackupaction. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\archivedecompositionstate. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\contextidlist. Value 20480￿34816￿36894￿61470￿12289￿8197
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\scantimeout. Value 60000
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\archivetimeout. Value 60000
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\enablegtifeedback. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\gtilookuplevel. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\perftradeoff. Value 3
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\falserisktradeoff. Value 3
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\reportclean. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\reporterror. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\reportprogress. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\useserverflag. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\useunbufferedio. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\customextension. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\disabledetection. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\exclusions. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\unwantedfiles. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\exclusiondetection. Value 
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\knowngoodlongevity. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\repairbackuppup. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\ODS\LAMEMAILSCAN\enablemultipleheuristics. Value 0
+06/02/20 22:55:40 .\CPolicy.cpp: 33: Installing Policy: GLOBAL
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\MCSHIELDGLOBAL\GLOBAL\scanprocessonstart. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\MCSHIELDGLOBAL\GLOBAL\stateatboottime. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\MCSHIELDGLOBAL\GLOBAL\scanfloppyonshutdown. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\MCSHIELDGLOBAL\GLOBAL\cachetype. Value 2
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\MCSHIELDGLOBAL\GLOBAL\scanbootsectoronstart. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\MCSHIELDGLOBAL\GLOBAL\scanmode. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\MCSHIELDGLOBAL\GLOBAL\enableoas. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\MCSHIELDGLOBAL\GLOBAL\scanfeaturelist. Value 100|false
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\MCSHIELDGLOBAL\GLOBAL\enabledscannersoverride. Value 884767|true
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\MCSHIELDGLOBAL\GLOBAL\targetmemoryusage. Value 130
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\MCSHIELDGLOBAL\GLOBAL\grapheneusedats. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\MCSHIELDGLOBAL\GLOBAL\enableselfprotection. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\MCSHIELDGLOBAL\GLOBAL\spywareentitled. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\MCSHIELDGLOBAL\GLOBAL\delaystartup. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\MCSHIELDGLOBAL\GLOBAL\enablesafetyframework. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 555: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\MCSHIELDGLOBAL\GLOBAL\trustedprocesslist. Value 
+06/02/20 22:55:40 .\IInstallable.cpp: 343: Environment Variable $QUARANTINE_PATH  is C:\ProgramData\McAfee\VirusScan\Quarantine
+06/02/20 22:55:40 .\IInstallable.cpp: 333: Config XML Quarantine directory is C:\ProgramData\McAfee\VirusScan\Quarantine
+06/02/20 22:55:40 .\RegistryOperation.cpp: 488: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\MCSHIELDGLOBAL\GLOBAL\backupdirectory. Value C:\ProgramData\McAfee\VirusScan\Quarantine
+06/02/20 22:55:40 .\RegistryOperation.cpp: 488: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\MCSHIELDGLOBAL\MCSHIELDGLOBAL\backupdirectory. Value C:\ProgramData\McAfee\VirusScan\Quarantine
+06/02/20 22:55:40 .\InstallHelper.cpp: 70: Entered function InstallRefKey
+06/02/20 22:55:40 .\RegistryOperation.cpp: 488: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\Install_Reference\szInstallPath. Value C:\Program Files\Common Files\McAfee\AMCore
+06/02/20 22:55:40 .\RegistryOperation.cpp: 488: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\Install_Reference\szContentPath. Value C:\Program Files\Common Files\McAfee\AMContent
+06/02/20 22:55:40 .\InstallHelper.cpp: 93: Exiting function InstallRefKey
+06/02/20 22:55:40 .\Package.cpp: 214: Begin Package Repair
+06/02/20 22:55:40 .\Package.cpp: 675: Begin Repair Feature OAS
+06/02/20 22:55:40 .\Driver.cpp: 475: Entered function Driver::Repair
+06/02/20 22:55:40 .\Driver.cpp: 841: Entered function Driver::LockDownDrivers
+06/02/20 22:55:40 .\Driver.cpp: 859: Exiting function Driver::LockDownDrivers
+06/02/20 22:55:40 .\CChangeDir.cpp: 21: Entered function CChangeDir::CChangeDir
+06/02/20 22:55:40 .\CChangeDir.cpp: 40: Exiting function CChangeDir::CChangeDir
+06/02/20 22:55:40 .\RegistryOperation.cpp: 202: Creating registry key HKLM\system\CurrentControlSet\Services\mfencbdc
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencbdc\BootLoadContent
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: system\CurrentControlSet\Services\mfencbdc\BootLoadContent. Value 2
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencbdc\SmoothWritesDefaultTimeout
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: system\CurrentControlSet\Services\mfencbdc\SmoothWritesDefaultTimeout. Value 2000
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencbdc\EnableSmoothWriteByDefault
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencbdc\EventResponseTimeout
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: system\CurrentControlSet\Services\mfencbdc\EventResponseTimeout. Value 10000
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencbdc\EventQueueTimeout
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: system\CurrentControlSet\Services\mfencbdc\EventQueueTimeout. Value 5000
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencbdc\DefaultTTL
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: system\CurrentControlSet\Services\mfencbdc\DefaultTTL. Value 10
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencbdc\OEMWhitelistingConfig
+06/02/20 22:55:40 .\RegistryOperation.cpp: 431: Retaining the value for registry value: system\CurrentControlSet\Services\mfencbdc\OEMWhitelistingConfig
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencbdc\SmoothWritesCustomConfig
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencbdc\BootEventQueueConfig
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencbdc\FileCopyPerformanceConfig
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencbdc\ClientPath01
+06/02/20 22:55:40 .\RegistryOperation.cpp: 488: Succeeded set the value for registry key: system\CurrentControlSet\Services\mfencbdc\ClientPath01. Value C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencbdc\DisplayName
+06/02/20 22:55:40 .\RegistryOperation.cpp: 488: Succeeded set the value for registry key: system\CurrentControlSet\Services\mfencbdc\DisplayName. Value McAfee LLC. mfencbdc
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencbdc\Description
+06/02/20 22:55:40 .\RegistryOperation.cpp: 488: Succeeded set the value for registry key: system\CurrentControlSet\Services\mfencbdc\Description. Value McAfee Content driver Copyright (C) McAfee LLC, 2019. All rights reserved.
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencbdc\ImagePath
+06/02/20 22:55:40 .\RegistryOperation.cpp: 507: Succeeded set the value for registry key: system\CurrentControlSet\Services\mfencbdc\ImagePath. Value system32\DRIVERS\mfencbdc.sys
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencbdc\Start
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: system\CurrentControlSet\Services\mfencbdc\Start. Value 3
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencbdc\Type
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: system\CurrentControlSet\Services\mfencbdc\Type. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencbdc\ErrorControl
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: system\CurrentControlSet\Services\mfencbdc\ErrorControl. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencbdc\CreateFileTimeout
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: system\CurrentControlSet\Services\mfencbdc\CreateFileTimeout. Value 5000
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencbdc\FileHookAltitude
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: system\CurrentControlSet\Services\mfencbdc\FileHookAltitude. Value 500
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencbdc\RegistryHookAltitude
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: system\CurrentControlSet\Services\mfencbdc\RegistryHookAltitude. Value 500
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencbdc\SectionHookAltitude
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: system\CurrentControlSet\Services\mfencbdc\SectionHookAltitude. Value 500
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencbdc\ProcessHookAltitude
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: system\CurrentControlSet\Services\mfencbdc\ProcessHookAltitude. Value 500
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencbdc\DefaultDefconLevel
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: system\CurrentControlSet\Services\mfencbdc\DefaultDefconLevel. Value 0
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencbdc\EnableVSSEvents
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: system\CurrentControlSet\Services\mfencbdc\EnableVSSEvents. Value 2
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencbdc\ContentVersion
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: system\CurrentControlSet\Services\mfencbdc\ContentVersion. Value 2
+06/02/20 22:55:40 .\RegistryOperation.cpp: 202: Creating registry key HKLM\SYSTEM\CurrentControlSet\services\mfehidk
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\SYSTEM\CurrentControlSet\services\mfehidk\ContentDriver.mfencbdc
+06/02/20 22:55:40 .\RegistryOperation.cpp: 488: Succeeded set the value for registry key: SYSTEM\CurrentControlSet\services\mfehidk\ContentDriver.mfencbdc. Value mfencbdc
+06/02/20 22:55:40 .\Driver.cpp: 543: Entered function Driver::RepairDriverFile
+06/02/20 22:55:40 .\Driver.cpp: 273: Entered function Driver::ExecuteSectionFromInfFile
+06/02/20 22:55:40 .\CChangeDir.cpp: 21: Entered function CChangeDir::CChangeDir
+06/02/20 22:55:40 .\CChangeDir.cpp: 40: Exiting function CChangeDir::CChangeDir
+06/02/20 22:55:40 .\CChangeDir.cpp: 45: Entered function CChangeDir::~CChangeDir
+06/02/20 22:55:40 .\CChangeDir.cpp: 49: Exiting function CChangeDir::~CChangeDir
+06/02/20 22:55:40 .\Driver.cpp: 309: Failed Driver Install. launchINFSection for C:\Program Files\Common Files\McAfee\Casper\mfencbdc.inf
+06/02/20 22:55:40 .\Driver.cpp: 318: Exiting function Driver::ExecuteSectionFromInfFile
+06/02/20 22:55:40 .\InstallHelper.cpp: 186: Entered function CopyAndReplaceFile
+06/02/20 22:55:40 .\InstallHelper.cpp: 191: Exiting function CopyAndReplaceFile
+06/02/20 22:55:40 .\InstallHelper.cpp: 197: Entered function CopyAtReboot
+06/02/20 22:55:40 .\InstallHelper.cpp: 186: Entered function CopyAndReplaceFile
+06/02/20 22:55:40 .\InstallHelper.cpp: 191: Exiting function CopyAndReplaceFile
+06/02/20 22:55:40 .\InstallHelper.cpp: 226: Exiting function CopyAtReboot
+06/02/20 22:55:40 .\Driver.cpp: 666: Entered function Driver::RemoveTombStoneIfPresent
+06/02/20 22:55:40 .\Driver.cpp: 674: Found existing system\CurrentControlSet\Services\mfencbdc reg entry.
+06/02/20 22:55:40 .\Driver.cpp: 678: Failed to Find DeleteFlag.
+06/02/20 22:55:40 .\Driver.cpp: 698: Exiting function Driver::RemoveTombStoneIfPresent
+06/02/20 22:55:40 .\Driver.cpp: 617: Exiting function Driver::RepairDriverFile
+06/02/20 22:55:40 .\Driver.cpp: 841: Entered function Driver::LockDownDrivers
+06/02/20 22:55:40 .\Driver.cpp: 859: Exiting function Driver::LockDownDrivers
+06/02/20 22:55:40 .\CChangeDir.cpp: 45: Entered function CChangeDir::~CChangeDir
+06/02/20 22:55:40 .\CChangeDir.cpp: 49: Exiting function CChangeDir::~CChangeDir
+06/02/20 22:55:40 .\Driver.cpp: 531: Exiting function Driver::Repair
+06/02/20 22:55:40 .\Driver.cpp: 475: Entered function Driver::Repair
+06/02/20 22:55:40 .\Driver.cpp: 841: Entered function Driver::LockDownDrivers
+06/02/20 22:55:40 .\Driver.cpp: 859: Exiting function Driver::LockDownDrivers
+06/02/20 22:55:40 .\CChangeDir.cpp: 21: Entered function CChangeDir::CChangeDir
+06/02/20 22:55:40 .\CChangeDir.cpp: 40: Exiting function CChangeDir::CChangeDir
+06/02/20 22:55:40 .\RegistryOperation.cpp: 202: Creating registry key HKLM\system\CurrentControlSet\Services\mfencrk
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencrk\DisplayName
+06/02/20 22:55:40 .\RegistryOperation.cpp: 488: Succeeded set the value for registry key: system\CurrentControlSet\Services\mfencrk\DisplayName. Value McAfee LLC. mfencrk
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencrk\Description
+06/02/20 22:55:40 .\RegistryOperation.cpp: 488: Succeeded set the value for registry key: system\CurrentControlSet\Services\mfencrk\Description. Value McAfee Content driver Copyright (C) McAfee LLC, 2019. All rights reserved.
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencrk\ImagePath
+06/02/20 22:55:40 .\RegistryOperation.cpp: 507: Succeeded set the value for registry key: system\CurrentControlSet\Services\mfencrk\ImagePath. Value system32\DRIVERS\mfencrk.sys
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencrk\Start
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: system\CurrentControlSet\Services\mfencrk\Start. Value 3
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencrk\Type
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: system\CurrentControlSet\Services\mfencrk\Type. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencrk\ErrorControl
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: system\CurrentControlSet\Services\mfencrk\ErrorControl. Value 1
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\system\CurrentControlSet\Services\mfencrk\ContentVersion
+06/02/20 22:55:40 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: system\CurrentControlSet\Services\mfencrk\ContentVersion. Value 2
+06/02/20 22:55:40 .\RegistryOperation.cpp: 202: Creating registry key HKLM\SYSTEM\CurrentControlSet\services\mfehidk
+06/02/20 22:55:40 .\RegistryOperation.cpp: 216: Creating registry key HKLM\SYSTEM\CurrentControlSet\services\mfehidk\ContentDriver.mfencrk
+06/02/20 22:55:40 .\RegistryOperation.cpp: 488: Succeeded set the value for registry key: SYSTEM\CurrentControlSet\services\mfehidk\ContentDriver.mfencrk. Value mfencrk
+06/02/20 22:55:40 .\RegistryOperation.cpp: 202: Creating registry key HKLM\SYSTEM\CurrentControlSet\Control\SafeBoot\Network\mfencbdc
+06/02/20 22:55:40 .\RegistryOperation.cpp: 202: Creating registry key HKLM\SYSTEM\CurrentControlSet\Control\SafeBoot\Network\mfencbdc.sys
+06/02/20 22:55:40 .\Driver.cpp: 543: Entered function Driver::RepairDriverFile
+06/02/20 22:55:40 .\Driver.cpp: 273: Entered function Driver::ExecuteSectionFromInfFile
+06/02/20 22:55:40 .\CChangeDir.cpp: 21: Entered function CChangeDir::CChangeDir
+06/02/20 22:55:40 .\CChangeDir.cpp: 40: Exiting function CChangeDir::CChangeDir
+06/02/20 22:55:40 .\CChangeDir.cpp: 45: Entered function CChangeDir::~CChangeDir
+06/02/20 22:55:40 .\CChangeDir.cpp: 49: Exiting function CChangeDir::~CChangeDir
+06/02/20 22:55:40 .\Driver.cpp: 318: Exiting function Driver::ExecuteSectionFromInfFile
+06/02/20 22:55:41 .\Driver.cpp: 607: C:\WINDOWS\system32\drivers\mfencrk.sys File same, So not repaired
+06/02/20 22:55:41 .\Driver.cpp: 666: Entered function Driver::RemoveTombStoneIfPresent
+06/02/20 22:55:41 .\Driver.cpp: 674: Found existing system\CurrentControlSet\Services\mfencrk reg entry.
+06/02/20 22:55:41 .\Driver.cpp: 678: Failed to Find DeleteFlag.
+06/02/20 22:55:41 .\Driver.cpp: 698: Exiting function Driver::RemoveTombStoneIfPresent
+06/02/20 22:55:41 .\Driver.cpp: 607: C:\WINDOWS\system32\drivers\mfeclnrk.sys File same, So not repaired
+06/02/20 22:55:41 .\Driver.cpp: 666: Entered function Driver::RemoveTombStoneIfPresent
+06/02/20 22:55:41 .\Driver.cpp: 698: Exiting function Driver::RemoveTombStoneIfPresent
+06/02/20 22:55:41 .\Driver.cpp: 617: Exiting function Driver::RepairDriverFile
+06/02/20 22:55:41 .\Driver.cpp: 841: Entered function Driver::LockDownDrivers
+06/02/20 22:55:41 .\Driver.cpp: 859: Exiting function Driver::LockDownDrivers
+06/02/20 22:55:41 .\CChangeDir.cpp: 45: Entered function CChangeDir::~CChangeDir
+06/02/20 22:55:41 .\CChangeDir.cpp: 49: Exiting function CChangeDir::~CChangeDir
+06/02/20 22:55:41 .\Driver.cpp: 531: Exiting function Driver::Repair
+06/02/20 22:55:41 .\Package.cpp: 726: Entered function Feature::RepairCore
+06/02/20 22:55:41 .\ScheduledTaskOperation.cpp: 92: ScheduledTaskOperation::Repair.
+06/02/20 22:55:41 .\ScheduledTaskOperation.cpp: 43: ScheduledTaskOperation::UnInstall
+06/02/20 22:55:41 .\FileOperation.cpp: 182: Entered function FileOperation::Repair  Operation : copy, Filename : EMMain.dll, SHA256: 07ca14c6a44ac8960fdc822d864935edca3f06ca599ce3c4b46e632d708a1212
+06/02/20 22:55:41 .\FileOperation.cpp: 29: Entered function FileOperation::Install  Operation : copy, Filename : EMMain.dll, SHA256: 07ca14c6a44ac8960fdc822d864935edca3f06ca599ce3c4b46e632d708a1212
+06/02/20 22:55:41 .\InstallHelper.cpp: 186: Entered function CopyAndReplaceFile
+06/02/20 22:55:41 .\InstallHelper.cpp: 191: Exiting function CopyAndReplaceFile
+06/02/20 22:55:41 .\FileOperation.cpp: 103: Successfully copied File, from C:\Program Files\Common Files\McAfee\Casper\EMMain.dll to C:\Program Files\Common Files\McAfee\AMCore\EMMain.dll
+06/02/20 22:55:41 .\FileOperation.cpp: 110: Exiting function FileOperation::Install
+06/02/20 22:55:41 .\FileOperation.cpp: 216: Repaired File EMMain.dll
+06/02/20 22:55:41 .\FileOperation.cpp: 229: Exiting function FileOperation::Repair  dwReturnError : 0
+06/02/20 22:55:41 .\FileOperation.cpp: 182: Entered function FileOperation::Repair  Operation : copy, Filename : McShieldClient.dll, SHA256: 074ddb5b60ea932dfe8a9d81e3531bd0a18e9db86523f424441df6c134a5aaa5
+06/02/20 22:55:41 .\FileOperation.cpp: 29: Entered function FileOperation::Install  Operation : copy, Filename : McShieldClient.dll, SHA256: 074ddb5b60ea932dfe8a9d81e3531bd0a18e9db86523f424441df6c134a5aaa5
+06/02/20 22:55:41 .\InstallHelper.cpp: 186: Entered function CopyAndReplaceFile
+06/02/20 22:55:41 .\InstallHelper.cpp: 191: Exiting function CopyAndReplaceFile
+06/02/20 22:55:42 .\FileOperation.cpp: 103: Successfully copied File, from C:\Program Files\Common Files\McAfee\Casper\x86\McShieldClient.dll to C:\Program Files\Common Files\McAfee\AMCore\x32\McShieldClient.dll
+06/02/20 22:55:42 .\FileOperation.cpp: 110: Exiting function FileOperation::Install
+06/02/20 22:55:42 .\FileOperation.cpp: 216: Repaired File McShieldClient.dll
+06/02/20 22:55:42 .\FileOperation.cpp: 229: Exiting function FileOperation::Repair  dwReturnError : 0
+06/02/20 22:55:42 .\FileOperation.cpp: 182: Entered function FileOperation::Repair  Operation : copy, Filename : McShieldClient.dll, SHA256: cfc2d2764872506c3b6a1707d9eca4c2611fe93241bb2890e87c3858609f8468
+06/02/20 22:55:42 .\FileOperation.cpp: 29: Entered function FileOperation::Install  Operation : copy, Filename : McShieldClient.dll, SHA256: cfc2d2764872506c3b6a1707d9eca4c2611fe93241bb2890e87c3858609f8468
+06/02/20 22:55:42 .\InstallHelper.cpp: 186: Entered function CopyAndReplaceFile
+06/02/20 22:55:42 .\InstallHelper.cpp: 191: Exiting function CopyAndReplaceFile
+06/02/20 22:55:42 .\FileOperation.cpp: 103: Successfully copied File, from C:\Program Files\Common Files\McAfee\Casper\x86_64\McShieldClient.dll to C:\Program Files\Common Files\McAfee\AMCore\x64\McShieldClient.dll
+06/02/20 22:55:42 .\FileOperation.cpp: 110: Exiting function FileOperation::Install
+06/02/20 22:55:42 .\FileOperation.cpp: 216: Repaired File McShieldClient.dll
+06/02/20 22:55:42 .\FileOperation.cpp: 229: Exiting function FileOperation::Repair  dwReturnError : 0
+06/02/20 22:55:42 .\FileOperation.cpp: 182: Entered function FileOperation::Repair  Operation : copy, Filename : MFE_DS.dll, SHA256: da7f0c981b89aadb5581db56d421695f79ae00058e3f3b75734740d52a5a5673
+06/02/20 22:55:42 .\FileOperation.cpp: 29: Entered function FileOperation::Install  Operation : copy, Filename : MFE_DS.dll, SHA256: da7f0c981b89aadb5581db56d421695f79ae00058e3f3b75734740d52a5a5673
+06/02/20 22:55:42 .\InstallHelper.cpp: 186: Entered function CopyAndReplaceFile
+06/02/20 22:55:42 .\InstallHelper.cpp: 191: Exiting function CopyAndReplaceFile
+06/02/20 22:55:42 .\FileOperation.cpp: 103: Successfully copied File, from C:\Program Files\Common Files\McAfee\Casper\MFE_DS.dll to C:\Program Files\Common Files\McAfee\AMCore\MFE_DS.dll
+06/02/20 22:55:42 .\FileOperation.cpp: 110: Exiting function FileOperation::Install
+06/02/20 22:55:42 .\FileOperation.cpp: 216: Repaired File MFE_DS.dll
+06/02/20 22:55:42 .\FileOperation.cpp: 229: Exiting function FileOperation::Repair  dwReturnError : 0
+06/02/20 22:55:42 .\FileOperation.cpp: 182: Entered function FileOperation::Repair  Operation : copy, Filename : MFE_CS.dll, SHA256: e129af5d7254d85b6406483fdd3297dba5e6c1c907b1873e5f69f2f6934eade0
+06/02/20 22:55:42 .\FileOperation.cpp: 29: Entered function FileOperation::Install  Operation : copy, Filename : MFE_CS.dll, SHA256: e129af5d7254d85b6406483fdd3297dba5e6c1c907b1873e5f69f2f6934eade0
+06/02/20 22:55:42 .\InstallHelper.cpp: 186: Entered function CopyAndReplaceFile
+06/02/20 22:55:42 .\InstallHelper.cpp: 191: Exiting function CopyAndReplaceFile
+06/02/20 22:55:42 .\FileOperation.cpp: 103: Successfully copied File, from C:\Program Files\Common Files\McAfee\Casper\MFE_CS.dll to C:\Program Files\Common Files\McAfee\AMCore\MFE_CS.dll
+06/02/20 22:55:42 .\FileOperation.cpp: 110: Exiting function FileOperation::Install
+06/02/20 22:55:42 .\FileOperation.cpp: 216: Repaired File MFE_CS.dll
+06/02/20 22:55:42 .\FileOperation.cpp: 229: Exiting function FileOperation::Repair  dwReturnError : 0
+06/02/20 22:55:42 .\FileOperation.cpp: 182: Entered function FileOperation::Repair  Operation : copy, Filename : quarantine.dll, SHA256: ff6a4f5d51e585d51bb57c172d0f5d23fa026c5fd05effc1140b29447c96f9e2
+06/02/20 22:55:43 .\FileOperation.cpp: 29: Entered function FileOperation::Install  Operation : copy, Filename : quarantine.dll, SHA256: ff6a4f5d51e585d51bb57c172d0f5d23fa026c5fd05effc1140b29447c96f9e2
+06/02/20 22:55:43 .\InstallHelper.cpp: 186: Entered function CopyAndReplaceFile
+06/02/20 22:55:43 .\InstallHelper.cpp: 191: Exiting function CopyAndReplaceFile
+06/02/20 22:55:43 .\FileOperation.cpp: 103: Successfully copied File, from C:\Program Files\Common Files\McAfee\Casper\quarantine.dll to C:\Program Files\Common Files\McAfee\AMCore\quarantine.dll
+06/02/20 22:55:43 .\FileOperation.cpp: 110: Exiting function FileOperation::Install
+06/02/20 22:55:43 .\FileOperation.cpp: 216: Repaired File quarantine.dll
+06/02/20 22:55:43 .\FileOperation.cpp: 229: Exiting function FileOperation::Repair  dwReturnError : 0
+06/02/20 22:55:43 .\FileOperation.cpp: 182: Entered function FileOperation::Repair  Operation : copy, Filename : ncapi.dll, SHA256: 0958c0a5c478ba475616b5269e03272d72e517e1a5ffdd0966f595c7ae91e6b9
+06/02/20 22:55:43 .\FileOperation.cpp: 29: Entered function FileOperation::Install  Operation : copy, Filename : ncapi.dll, SHA256: 0958c0a5c478ba475616b5269e03272d72e517e1a5ffdd0966f595c7ae91e6b9
+06/02/20 22:55:43 .\InstallHelper.cpp: 186: Entered function CopyAndReplaceFile
+06/02/20 22:55:43 .\InstallHelper.cpp: 191: Exiting function CopyAndReplaceFile
+06/02/20 22:55:43 .\FileOperation.cpp: 103: Successfully copied File, from C:\Program Files\Common Files\McAfee\Casper\ncapi.dll to C:\Program Files\Common Files\McAfee\AMCore\ncapi.dll
+06/02/20 22:55:43 .\FileOperation.cpp: 110: Exiting function FileOperation::Install
+06/02/20 22:55:43 .\FileOperation.cpp: 216: Repaired File ncapi.dll
+06/02/20 22:55:43 .\FileOperation.cpp: 229: Exiting function FileOperation::Repair  dwReturnError : 0
+06/02/20 22:55:43 .\FileOperation.cpp: 182: Entered function FileOperation::Repair  Operation : copy, Filename : AVEvent.dll, SHA256: ae7dab9e9b758d8d2ef7d9d311ac2160186bcf229c7689eec60191f3a2c222bf
+06/02/20 22:55:43 .\FileOperation.cpp: 29: Entered function FileOperation::Install  Operation : copy, Filename : AVEvent.dll, SHA256: ae7dab9e9b758d8d2ef7d9d311ac2160186bcf229c7689eec60191f3a2c222bf
+06/02/20 22:55:43 .\InstallHelper.cpp: 186: Entered function CopyAndReplaceFile
+06/02/20 22:55:43 .\InstallHelper.cpp: 191: Exiting function CopyAndReplaceFile
+06/02/20 22:55:43 .\FileOperation.cpp: 103: Successfully copied File, from C:\Program Files\Common Files\McAfee\Casper\AVEvent.dll to C:\Program Files\Common Files\McAfee\AMCore\AVEvent.dll
+06/02/20 22:55:43 .\FileOperation.cpp: 110: Exiting function FileOperation::Install
+06/02/20 22:55:43 .\FileOperation.cpp: 216: Repaired File AVEvent.dll
+06/02/20 22:55:43 .\FileOperation.cpp: 229: Exiting function FileOperation::Repair  dwReturnError : 0
+06/02/20 22:55:43 .\FileOperation.cpp: 182: Entered function FileOperation::Repair  Operation : copy, Filename : McShieldClient.dll, SHA256: cfc2d2764872506c3b6a1707d9eca4c2611fe93241bb2890e87c3858609f8468
+06/02/20 22:55:43 .\FileOperation.cpp: 29: Entered function FileOperation::Install  Operation : copy, Filename : McShieldClient.dll, SHA256: cfc2d2764872506c3b6a1707d9eca4c2611fe93241bb2890e87c3858609f8468
+06/02/20 22:55:43 .\InstallHelper.cpp: 186: Entered function CopyAndReplaceFile
+06/02/20 22:55:43 .\InstallHelper.cpp: 191: Exiting function CopyAndReplaceFile
+06/02/20 22:55:43 .\FileOperation.cpp: 103: Successfully copied File, from C:\Program Files\Common Files\McAfee\Casper\McShieldClient.dll to C:\Program Files\Common Files\McAfee\AMCore\McShieldClient.dll
+06/02/20 22:55:43 .\FileOperation.cpp: 110: Exiting function FileOperation::Install
+06/02/20 22:55:43 .\FileOperation.cpp: 216: Repaired File McShieldClient.dll
+06/02/20 22:55:43 .\FileOperation.cpp: 229: Exiting function FileOperation::Repair  dwReturnError : 0
+06/02/20 22:55:43 .\FileOperation.cpp: 182: Entered function FileOperation::Repair  Operation : copy, Filename : lua_lib.dll, SHA256: 0ff771b488578efea37811c17273f419c97561a1845301ea7c6798f23e090045
+06/02/20 22:55:43 .\FileOperation.cpp: 29: Entered function FileOperation::Install  Operation : copy, Filename : lua_lib.dll, SHA256: 0ff771b488578efea37811c17273f419c97561a1845301ea7c6798f23e090045
+06/02/20 22:55:43 .\InstallHelper.cpp: 186: Entered function CopyAndReplaceFile
+06/02/20 22:55:43 .\InstallHelper.cpp: 191: Exiting function CopyAndReplaceFile
+06/02/20 22:55:44 .\FileOperation.cpp: 103: Successfully copied File, from C:\Program Files\Common Files\McAfee\Casper\lua_lib.dll to C:\Program Files\Common Files\McAfee\AMCore\lua_lib.dll
+06/02/20 22:55:44 .\FileOperation.cpp: 110: Exiting function FileOperation::Install
+06/02/20 22:55:44 .\FileOperation.cpp: 216: Repaired File lua_lib.dll
+06/02/20 22:55:44 .\FileOperation.cpp: 229: Exiting function FileOperation::Repair  dwReturnError : 0
+06/02/20 22:55:44 .\FileOperation.cpp: 182: Entered function FileOperation::Repair  Operation : copy, Filename : mcshield.exe, SHA256: a1a039c4f8bd9ba446552d31c38b48ee0245d4b9784ff64c57c3f20cd19ff0ae
+06/02/20 22:55:44 .\FileOperation.cpp: 29: Entered function FileOperation::Install  Operation : copy, Filename : mcshield.exe, SHA256: a1a039c4f8bd9ba446552d31c38b48ee0245d4b9784ff64c57c3f20cd19ff0ae
+06/02/20 22:55:44 .\InstallHelper.cpp: 186: Entered function CopyAndReplaceFile
+06/02/20 22:55:44 .\InstallHelper.cpp: 191: Exiting function CopyAndReplaceFile
+06/02/20 22:55:44 .\FileOperation.cpp: 103: Successfully copied File, from C:\Program Files\Common Files\McAfee\Casper\mcshield.exe to C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe
+06/02/20 22:55:44 .\FileOperation.cpp: 110: Exiting function FileOperation::Install
+06/02/20 22:55:44 .\FileOperation.cpp: 216: Repaired File mcshield.exe
+06/02/20 22:55:44 .\FileOperation.cpp: 229: Exiting function FileOperation::Repair  dwReturnError : 0
+06/02/20 22:55:44 .\FileOperation.cpp: 182: Entered function FileOperation::Repair  Operation : copy, Filename : metro_repair.dll, SHA256: 22dc8d135abdde0b60981e6696d8a1b4f0becb29dc4d9faec12347d2c4a2ab67
+06/02/20 22:55:44 .\FileOperation.cpp: 29: Entered function FileOperation::Install  Operation : copy, Filename : metro_repair.dll, SHA256: 22dc8d135abdde0b60981e6696d8a1b4f0becb29dc4d9faec12347d2c4a2ab67
+06/02/20 22:55:44 .\InstallHelper.cpp: 186: Entered function CopyAndReplaceFile
+06/02/20 22:55:44 .\InstallHelper.cpp: 191: Exiting function CopyAndReplaceFile
+06/02/20 22:55:44 .\FileOperation.cpp: 103: Successfully copied File, from C:\Program Files\Common Files\McAfee\Casper\metro_repair.dll to C:\Program Files\Common Files\McAfee\AMCore\metro_repair.dll
+06/02/20 22:55:44 .\FileOperation.cpp: 110: Exiting function FileOperation::Install
+06/02/20 22:55:44 .\FileOperation.cpp: 216: Repaired File metro_repair.dll
+06/02/20 22:55:44 .\FileOperation.cpp: 229: Exiting function FileOperation::Repair  dwReturnError : 0
+06/02/20 22:55:44 .\FileOperation.cpp: 182: Entered function FileOperation::Repair  Operation : copy, Filename : license.txt, SHA256: baa044a2fe0812c673c7355b4de6de850c58ed4ff9d9b2a854b862e0896ac81c
+06/02/20 22:55:44 .\FileOperation.cpp: 222: license.txt File same, So not repaired
+06/02/20 22:55:44 .\FileOperation.cpp: 229: Exiting function FileOperation::Repair  dwReturnError : 0
+06/02/20 22:55:44 .\FileOperation.cpp: 182: Entered function FileOperation::Repair  Operation : delete, Filename : mfezip.dll, SHA256: 
+06/02/20 22:55:44 .\FileOperation.cpp: 133: File not deleted, C:\Program Files\Common Files\McAfee\AMCore\mfezip.dll. Error Code: 2
+06/02/20 22:55:44 .\FileOperation.cpp: 176: Deleted File C:\Program Files\Common Files\McAfee\AMCore\mfezip.dll. Result code 0
+06/02/20 22:55:44 .\FileOperation.cpp: 229: Exiting function FileOperation::Repair  dwReturnError : 0
+06/02/20 22:55:44 .\FileOperation.cpp: 182: Entered function FileOperation::Repair  Operation : delete, Filename : mfeunzip.dll, SHA256: 
+06/02/20 22:55:44 .\FileOperation.cpp: 133: File not deleted, C:\Program Files\Common Files\McAfee\AMCore\mfeunzip.dll. Error Code: 2
+06/02/20 22:55:44 .\FileOperation.cpp: 176: Deleted File C:\Program Files\Common Files\McAfee\AMCore\mfeunzip.dll. Result code 0
+06/02/20 22:55:44 .\FileOperation.cpp: 229: Exiting function FileOperation::Repair  dwReturnError : 0
+06/02/20 22:55:44 .\FileOperation.cpp: 182: Entered function FileOperation::Repair  Operation : delete, Filename : msvcp120.dll, SHA256: 
+06/02/20 22:55:44 .\FileOperation.cpp: 133: File not deleted, C:\Program Files\Common Files\McAfee\AMCore\msvcp120.dll. Error Code: 2
+06/02/20 22:55:44 .\FileOperation.cpp: 176: Deleted File C:\Program Files\Common Files\McAfee\AMCore\msvcp120.dll. Result code 0
+06/02/20 22:55:44 .\FileOperation.cpp: 229: Exiting function FileOperation::Repair  dwReturnError : 0
+06/02/20 22:55:44 .\FileOperation.cpp: 182: Entered function FileOperation::Repair  Operation : delete, Filename : msvcr120.dll, SHA256: 
+06/02/20 22:55:44 .\FileOperation.cpp: 133: File not deleted, C:\Program Files\Common Files\McAfee\AMCore\msvcr120.dll. Error Code: 2
+06/02/20 22:55:44 .\FileOperation.cpp: 176: Deleted File C:\Program Files\Common Files\McAfee\AMCore\msvcr120.dll. Result code 0
+06/02/20 22:55:44 .\FileOperation.cpp: 229: Exiting function FileOperation::Repair  dwReturnError : 0
+06/02/20 22:55:44 .\FileOperation.cpp: 182: Entered function FileOperation::Repair  Operation : delete, Filename : emcode.dll, SHA256: 
+06/02/20 22:55:44 .\FileOperation.cpp: 133: File not deleted, C:\Program Files\Common Files\McAfee\AMCore\x32\emcode.dll. Error Code: 2
+06/02/20 22:55:44 .\FileOperation.cpp: 176: Deleted File C:\Program Files\Common Files\McAfee\AMCore\x32\emcode.dll. Result code 0
+06/02/20 22:55:44 .\FileOperation.cpp: 229: Exiting function FileOperation::Repair  dwReturnError : 0
+06/02/20 22:55:44 .\FileOperation.cpp: 182: Entered function FileOperation::Repair  Operation : delete, Filename : emevtpub.dll, SHA256: 
+06/02/20 22:55:44 .\FileOperation.cpp: 133: File not deleted, C:\Program Files\Common Files\McAfee\AMCore\x32\emevtpub.dll. Error Code: 2
+06/02/20 22:55:44 .\FileOperation.cpp: 176: Deleted File C:\Program Files\Common Files\McAfee\AMCore\x32\emevtpub.dll. Result code 0
+06/02/20 22:55:44 .\FileOperation.cpp: 229: Exiting function FileOperation::Repair  dwReturnError : 0
+06/02/20 22:55:44 .\FileOperation.cpp: 182: Entered function FileOperation::Repair  Operation : delete, Filename : emhost.dll, SHA256: 
+06/02/20 22:55:44 .\FileOperation.cpp: 133: File not deleted, C:\Program Files\Common Files\McAfee\AMCore\x32\emhost.dll. Error Code: 2
+06/02/20 22:55:44 .\FileOperation.cpp: 176: Deleted File C:\Program Files\Common Files\McAfee\AMCore\x32\emhost.dll. Result code 0
+06/02/20 22:55:44 .\FileOperation.cpp: 229: Exiting function FileOperation::Repair  dwReturnError : 0
+06/02/20 22:55:44 .\FileOperation.cpp: 182: Entered function FileOperation::Repair  Operation : delete, Filename : emhost_l.dll, SHA256: 
+06/02/20 22:55:44 .\FileOperation.cpp: 133: File not deleted, C:\Program Files\Common Files\McAfee\AMCore\x32\emhost_l.dll. Error Code: 2
+06/02/20 22:55:44 .\FileOperation.cpp: 176: Deleted File C:\Program Files\Common Files\McAfee\AMCore\x32\emhost_l.dll. Result code 0
+06/02/20 22:55:44 .\FileOperation.cpp: 229: Exiting function FileOperation::Repair  dwReturnError : 0
+06/02/20 22:55:44 .\FileOperation.cpp: 182: Entered function FileOperation::Repair  Operation : delete, Filename : emcode.dll, SHA256: 
+06/02/20 22:55:44 .\FileOperation.cpp: 133: File not deleted, C:\Program Files\Common Files\McAfee\AMCore\x64\emcode.dll. Error Code: 2
+06/02/20 22:55:44 .\FileOperation.cpp: 176: Deleted File C:\Program Files\Common Files\McAfee\AMCore\x64\emcode.dll. Result code 0
+06/02/20 22:55:44 .\FileOperation.cpp: 229: Exiting function FileOperation::Repair  dwReturnError : 0
+06/02/20 22:55:44 .\FileOperation.cpp: 182: Entered function FileOperation::Repair  Operation : delete, Filename : emevtpub.dll, SHA256: 
+06/02/20 22:55:44 .\FileOperation.cpp: 133: File not deleted, C:\Program Files\Common Files\McAfee\AMCore\x64\emevtpub.dll. Error Code: 2
+06/02/20 22:55:44 .\FileOperation.cpp: 176: Deleted File C:\Program Files\Common Files\McAfee\AMCore\x64\emevtpub.dll. Result code 0
+06/02/20 22:55:44 .\FileOperation.cpp: 229: Exiting function FileOperation::Repair  dwReturnError : 0
+06/02/20 22:55:44 .\FileOperation.cpp: 182: Entered function FileOperation::Repair  Operation : delete, Filename : emhost.dll, SHA256: 
+06/02/20 22:55:44 .\FileOperation.cpp: 133: File not deleted, C:\Program Files\Common Files\McAfee\AMCore\x64\emhost.dll. Error Code: 2
+06/02/20 22:55:44 .\FileOperation.cpp: 176: Deleted File C:\Program Files\Common Files\McAfee\AMCore\x64\emhost.dll. Result code 0
+06/02/20 22:55:44 .\FileOperation.cpp: 229: Exiting function FileOperation::Repair  dwReturnError : 0
+06/02/20 22:55:44 .\FileOperation.cpp: 182: Entered function FileOperation::Repair  Operation : delete, Filename : emhost_l.dll, SHA256: 
+06/02/20 22:55:44 .\FileOperation.cpp: 133: File not deleted, C:\Program Files\Common Files\McAfee\AMCore\x64\emhost_l.dll. Error Code: 2
+06/02/20 22:55:44 .\FileOperation.cpp: 176: Deleted File C:\Program Files\Common Files\McAfee\AMCore\x64\emhost_l.dll. Result code 0
+06/02/20 22:55:44 .\FileOperation.cpp: 229: Exiting function FileOperation::Repair  dwReturnError : 0
+06/02/20 22:55:44 .\FileOperation.cpp: 182: Entered function FileOperation::Repair  Operation : delete, Filename : mfencbdc.inf, SHA256: 
+06/02/20 22:55:44 .\FileOperation.cpp: 133: File not deleted, C:\WINDOWS\system32\drivers\mfencbdc.inf. Error Code: 2
+06/02/20 22:55:44 .\FileOperation.cpp: 176: Deleted File C:\WINDOWS\system32\drivers\mfencbdc.inf. Result code 0
+06/02/20 22:55:44 .\FileOperation.cpp: 229: Exiting function FileOperation::Repair  dwReturnError : 0
+06/02/20 22:55:44 .\FileOperation.cpp: 182: Entered function FileOperation::Repair  Operation : delete, Filename : mfencrk.inf, SHA256: 
+06/02/20 22:55:44 .\FileOperation.cpp: 133: File not deleted, C:\WINDOWS\system32\drivers\mfencrk.inf. Error Code: 2
+06/02/20 22:55:44 .\FileOperation.cpp: 176: Deleted File C:\WINDOWS\system32\drivers\mfencrk.inf. Result code 0
+06/02/20 22:55:44 .\FileOperation.cpp: 229: Exiting function FileOperation::Repair  dwReturnError : 0
+06/02/20 22:55:44 .\FileOperation.cpp: 182: Entered function FileOperation::Repair  Operation : delete, Filename : EMSystemWideDataStore.PDS, SHA256: 
+06/02/20 22:55:44 .\FileOperation.cpp: 176: Deleted File C:\Program Files\Common Files\McAfee\AMCore\EM\EMSystemWideDataStore.PDS. Result code 0
+06/02/20 22:55:44 .\FileOperation.cpp: 229: Exiting function FileOperation::Repair  dwReturnError : 0
+06/02/20 22:55:44 .\DirectoryOperation.cpp: 24: Begin directory operation create for path $INSTALL_PATH\EM
+06/02/20 22:55:45 .\DirectoryOperation.cpp: 53: End directory operation create for path C:\Program Files\Common Files\McAfee\AMCore\EM, result=183
+06/02/20 22:55:45 .\DirectoryOperation.cpp: 24: Begin directory operation create for path $INSTALL_PATH\ContentBackup
+06/02/20 22:55:45 .\DirectoryOperation.cpp: 53: End directory operation create for path C:\Program Files\Common Files\McAfee\AMCore\ContentBackup, result=183
+06/02/20 22:55:45 .\DirectoryOperation.cpp: 24: Begin directory operation create for path $INSTALL_PATH\x32
+06/02/20 22:55:45 .\DirectoryOperation.cpp: 53: End directory operation create for path C:\Program Files\Common Files\McAfee\AMCore\x32, result=183
+06/02/20 22:55:45 .\DirectoryOperation.cpp: 24: Begin directory operation create for path $INSTALL_PATH\x64
+06/02/20 22:55:45 .\DirectoryOperation.cpp: 53: End directory operation create for path C:\Program Files\Common Files\McAfee\AMCore\x64, result=183
+06/02/20 22:55:45 .\DirectoryOperation.cpp: 24: Begin directory operation create for path $PROGRAM_DATA\McAfee
+06/02/20 22:55:45 .\DirectoryOperation.cpp: 43: Directory C:\ProgramData\\McAfee already exists, continue install
+06/02/20 22:55:45 .\DirectoryOperation.cpp: 53: End directory operation create for path C:\ProgramData\\McAfee, result=0
+06/02/20 22:55:45 .\DirectoryOperation.cpp: 24: Begin directory operation create for path $PROGRAM_DATA\McAfee\AMCore
+06/02/20 22:55:45 .\DirectoryOperation.cpp: 43: Directory C:\ProgramData\\McAfee\AMCore already exists, continue install
+06/02/20 22:55:45 .\DirectoryOperation.cpp: 53: End directory operation create for path C:\ProgramData\\McAfee\AMCore, result=0
+06/02/20 22:55:45 .\DirectoryOperation.cpp: 24: Begin directory operation create for path $PROGRAM_DATA\McAfee\AMCore\scannerdata
+06/02/20 22:55:46 .\DirectoryOperation.cpp: 53: End directory operation create for path C:\ProgramData\\McAfee\AMCore\scannerdata, result=183
+06/02/20 22:55:46 .\DirectoryOperation.cpp: 24: Begin directory operation delete for path $INSTALL_PATH\Microsoft.VC90.CRT
+06/02/20 22:55:46 .\DirectoryOperation.cpp: 132: SHFileOperation failed. Error code 124
+06/02/20 22:55:46 .\DirectoryOperation.cpp: 135: DeleteDirectoryContents( C:\Program Files\Common Files\McAfee\AMCore\Microsoft.VC90.CRT\*.* )  returned 16
+06/02/20 22:55:46 .\DirectoryOperation.cpp: 84: RemoveDirectory C:\Program Files\Common Files\McAfee\AMCore\Microsoft.VC90.CRT returned 1
+06/02/20 22:55:46 .\DirectoryOperation.cpp: 53: End directory operation delete for path C:\Program Files\Common Files\McAfee\AMCore\Microsoft.VC90.CRT, result=0
+06/02/20 22:55:46 .\DirectoryOperation.cpp: 24: Begin directory operation delete for path $PROGRAM_FILESX86_COMMON_FILES_PATH\McAfee\DATReputation
+06/02/20 22:55:46 .\DirectoryOperation.cpp: 132: SHFileOperation failed. Error code 124
+06/02/20 22:55:46 .\DirectoryOperation.cpp: 135: DeleteDirectoryContents( C:\Program Files (x86)\Common Files\\McAfee\DATReputation\*.* )  returned 16
+06/02/20 22:55:46 .\DirectoryOperation.cpp: 84: RemoveDirectory C:\Program Files (x86)\Common Files\\McAfee\DATReputation returned 1
+06/02/20 22:55:46 .\DirectoryOperation.cpp: 53: End directory operation delete for path C:\Program Files (x86)\Common Files\\McAfee\DATReputation, result=0
+06/02/20 22:55:46 .\DirectoryOperation.cpp: 24: Begin directory operation delete for path $PROGRAM_DATA\McAfee\datreputation
+06/02/20 22:55:46 .\DirectoryOperation.cpp: 132: SHFileOperation failed. Error code 124
+06/02/20 22:55:46 .\DirectoryOperation.cpp: 135: DeleteDirectoryContents( C:\ProgramData\\McAfee\datreputation\*.* )  returned 16
+06/02/20 22:55:46 .\DirectoryOperation.cpp: 84: RemoveDirectory C:\ProgramData\\McAfee\datreputation returned 1
+06/02/20 22:55:46 .\DirectoryOperation.cpp: 53: End directory operation delete for path C:\ProgramData\\McAfee\datreputation, result=0
+06/02/20 22:55:46 .\RegistryOperation.cpp: 257: Deleting Registry Key SOFTWARE\McAfee\DATReputation
+06/02/20 22:55:46 .\RegistryOperation.cpp: 274: Deleting Wow64Node Registry Key SOFTWARE\McAfee\DATReputation
+06/02/20 22:55:46 .\RegistryOperation.cpp: 310: Deleted RegKey HKLM\SOFTWARE\McAfee\DATReputation. status is 2
+06/02/20 22:55:46 .\RegistryOperation.cpp: 100: RegistryKey is not present. Consider this as success for Uninstall. Error Code: 2
+06/02/20 22:55:46 .\RegistryOperation.cpp: 202: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\InstallHistory
+06/02/20 22:55:46 .\RegistryOperation.cpp: 202: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\InstallHistory\Versions
+06/02/20 22:55:46 .\RegistryOperation.cpp: 202: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution
+06/02/20 22:55:46 .\RegistryOperation.cpp: 216: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\dwAVSolutionIsLicensed
+06/02/20 22:55:46 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\dwAVSolutionIsLicensed. Value 1
+06/02/20 22:55:46 .\RegistryOperation.cpp: 216: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\szAVSolutionVersion
+06/02/20 22:55:46 .\RegistryOperation.cpp: 488: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\szAVSolutionVersion. Value 1.0
+06/02/20 22:55:46 .\RegistryOperation.cpp: 202: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\scannerdata
+06/02/20 22:55:46 .\RegistryOperation.cpp: 202: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\Install_Reference
+06/02/20 22:55:46 .\RegistryOperation.cpp: 216: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\Install_Reference\szInstallPath
+06/02/20 22:55:46 .\RegistryOperation.cpp: 488: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\Install_Reference\szInstallPath. Value C:\Program Files\Common Files\McAfee\AMCore
+06/02/20 22:55:46 .\RegistryOperation.cpp: 216: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\Install_Reference\szContentPath
+06/02/20 22:55:46 .\RegistryOperation.cpp: 488: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\Install_Reference\szContentPath. Value C:\Program Files\Common Files\McAfee\AMContent
+06/02/20 22:55:46 .\RegistryOperation.cpp: 202: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\AVS\AVS
+06/02/20 22:55:46 .\RegistryOperation.cpp: 216: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\AVS\AVS\szRealtimeScanSD
+06/02/20 22:55:46 .\RegistryOperation.cpp: 488: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\AVS\AVS\szRealtimeScanSD. Value O:BAG:BAD:(D;;0x001F0000;;;AN)(D;;0x001F0000;;;BG)(A;;0x001F0000;;;WD)
+06/02/20 22:55:46 .\RegistryOperation.cpp: 216: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\AVS\AVS\szConfigSD
+06/02/20 22:55:46 .\RegistryOperation.cpp: 488: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\AVS\AVS\szConfigSD. Value O:BAG:BAD:(A;;0x001F0000;;;BA)
+06/02/20 22:55:46 .\RegistryOperation.cpp: 216: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\AVS\AVS\szAMCoreVersion
+06/02/20 22:55:46 .\RegistryOperation.cpp: 488: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\AVS\AVS\szAMCoreVersion. Value 19.9.0.286.1
+06/02/20 22:55:46 .\RegistryOperation.cpp: 216: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\AVS\AVS\szProductGuid
+06/02/20 22:55:46 .\RegistryOperation.cpp: 488: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\AVS\AVS\szProductGuid. Value E179F170-519B-469d-AF72-BF56E2B1EED7
+06/02/20 22:55:46 .\RegistryOperation.cpp: 202: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\DS\DS
+06/02/20 22:55:46 .\RegistryOperation.cpp: 216: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\DS\DS\dwProductID
+06/02/20 22:55:46 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\DS\DS\dwProductID. Value 16037
+06/02/20 22:55:46 .\RegistryOperation.cpp: 216: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\DS\DS\dwContentMajorVersion
+06/02/20 22:55:46 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\DS\DS\dwContentMajorVersion. Value 3974
+06/02/20 22:55:46 .\RegistryOperation.cpp: 216: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\DS\DS\dwContentMinorVersion
+06/02/20 22:55:46 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\DS\DS\dwContentMinorVersion. Value 0
+06/02/20 22:55:46 .\RegistryOperation.cpp: 216: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\DS\DS\szScannersPath
+06/02/20 22:55:46 .\RegistryOperation.cpp: 488: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\DS\DS\szScannersPath. Value C:\Program Files\Common Files\McAfee\AMContent\scanners
+06/02/20 22:55:46 .\RegistryOperation.cpp: 216: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\DS\DS\szContentPath
+06/02/20 22:55:46 .\RegistryOperation.cpp: 488: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\DS\DS\szContentPath. Value C:\Program Files\Common Files\McAfee\AMContent\content
+06/02/20 22:55:46 .\RegistryOperation.cpp: 216: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\DS\DS\dwUpdateThrottleMode
+06/02/20 22:55:46 .\RegistryOperation.cpp: 431: Retaining the value for registry value: SOFTWARE\McAfee\AVSolution\DS\DS\dwUpdateThrottleMode
+06/02/20 22:55:46 .\RegistryOperation.cpp: 202: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\MCSHIELDGLOBAL\MCSHIELDGLOBAL
+06/02/20 22:55:46 .\RegistryOperation.cpp: 202: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\MCSHIELDGLOBAL\GLOBAL
+06/02/20 22:55:46 .\RegistryOperation.cpp: 202: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\OAS\OAS
+06/02/20 22:55:46 .\RegistryOperation.cpp: 202: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\ODS\ODS
+06/02/20 22:55:46 .\RegistryOperation.cpp: 202: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\EM\EM
+06/02/20 22:55:46 .\RegistryOperation.cpp: 216: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\EM\EM\dwEMThreadCount
+06/02/20 22:55:46 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\EM\EM\dwEMThreadCount. Value 0
+06/02/20 22:55:46 .\RegistryOperation.cpp: 216: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\EM\EM\dwEMASyncThreadCount
+06/02/20 22:55:46 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\EM\EM\dwEMASyncThreadCount. Value 0
+06/02/20 22:55:46 .\RegistryOperation.cpp: 216: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\EM\EM\szEMBasePath
+06/02/20 22:55:46 .\RegistryOperation.cpp: 488: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\EM\EM\szEMBasePath. Value C:\Program Files\Common Files\McAfee\AMCore\EM
+06/02/20 22:55:46 .\RegistryOperation.cpp: 216: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\EM\EM\szDllPath32
+06/02/20 22:55:46 .\RegistryOperation.cpp: 488: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\EM\EM\szDllPath32. Value C:\Program Files\Common Files\McAfee\AMCore\x32
+06/02/20 22:55:46 .\RegistryOperation.cpp: 216: Creating registry key HKLM\SOFTWARE\McAfee\AVSolution\EM\EM\szDllPath64
+06/02/20 22:55:46 .\RegistryOperation.cpp: 488: Succeeded set the value for registry key: SOFTWARE\McAfee\AVSolution\EM\EM\szDllPath64. Value C:\Program Files\Common Files\McAfee\AMCore\x64
+06/02/20 22:55:46 .\RegistryOperation.cpp: 202: Creating registry key HKLM\SYSTEM\CurrentControlSet\Services\Eventlog\Application\AVLogEvent
+06/02/20 22:55:46 .\RegistryOperation.cpp: 216: Creating registry key HKLM\SYSTEM\CurrentControlSet\Services\Eventlog\Application\AVLogEvent\TypesSupported
+06/02/20 22:55:46 .\RegistryOperation.cpp: 469: Succeeded set the value for registry key: SYSTEM\CurrentControlSet\Services\Eventlog\Application\AVLogEvent\TypesSupported. Value 7
+06/02/20 22:55:46 .\RegistryOperation.cpp: 216: Creating registry key HKLM\SYSTEM\CurrentControlSet\Services\Eventlog\Application\AVLogEvent\EventMessageFile
+06/02/20 22:55:46 .\RegistryOperation.cpp: 488: Succeeded set the value for registry key: SYSTEM\CurrentControlSet\Services\Eventlog\Application\AVLogEvent\EventMessageFile. Value C:\Program Files\Common Files\McAfee\AMCore\AVEvent.dll
+06/02/20 22:55:46 .\Package.cpp: 794: Entered function Feature::ValidateOemContentPresence
+06/02/20 22:55:46 .\Package.cpp: 832: Content version in registry is 3974.0
+06/02/20 22:55:46 .\Package.cpp: 850: Exiting function Feature::ValidateOemContentPresence
+06/02/20 22:55:46 .\Package.cpp: 787: Exiting function Feature::RepairCore
+06/02/20 22:55:46 .\MMService.cpp: 244: Entered function MMService::Repair
+06/02/20 22:55:46 .\MMService.cpp: 175: Entered function MMService::Install
+06/02/20 22:55:46 .\MMService.cpp: 65: Entered function MMService::DeserializeProfileXML
+06/02/20 22:55:46 .\MMService.cpp: 75: Exiting function MMService::DeserializeProfileXML
+06/02/20 22:55:46 .\MMService.cpp: 112: Entered function MMService::AdjustServicePath
+06/02/20 22:55:46 .\MMService.cpp: 118: Exiting function MMService::AdjustServicePath
+06/02/20 22:55:46 .\MMService.cpp: 189: App profile xml : <Service><Name>mfecore</Name><StartupProfile>SERVICE_START_EARLY</StartupProfile><ServiceType>SERVICE_WIN32_OWN_PROCESS</ServiceType><MMSServiceType>SERVICE_TYPE_MMS</MMSServiceType><BinaryPath>"C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe"</BinaryPath><ServiceArgVectors>mfecore</ServiceArgVectors><NumServiceArgs>1</NumServiceArgs><PowerProfile>POWERPROFILE_ALL</PowerProfile><FailureRestart><ResetPeriod>1800</ResetPeriod><RestartCount>2</RestartCount><RestartDelay>5</RestartDelay></FailureRestart><DependOnService><ServiceName>mfevtp</ServiceName></DependOnService><GroupAccount>LocalSystem</GroupAccount><ShutdownTimeout>90</ShutdownTimeout></Service>
+
+06/02/20 22:55:46 .\MMService.cpp: 202: Exiting function MMService::Install
+06/02/20 22:55:46 .\MMService.cpp: 278: Exiting function MMService::Repair , ret=0
+06/02/20 22:55:46 .\Package.cpp: 719: End Repair Feature OAS
+06/02/20 22:55:46 .\AccessProtection.cpp: 108: Entered function AccessProtection::Repair
+06/02/20 22:55:46 .\AccessProtection.cpp: 45: Entered function AccessProtection::Install
+06/02/20 22:55:46 .\AccessProtection.cpp: 49: Aac Xml to be installed
+06/02/20 22:55:46 .\AccessProtection.cpp: 52: <?xml version="1.0" encoding="utf-8"?>
+<PointProductList>
+	<PointProduct ProductGuid="E179F170-519B-469d-AF72-BF56E2B1EED7" Name="AMCore">
+		<!-- If PolicyGuid below is changed, then change it in code as well -->
+		<AacPolicy PolicyGuid="0310B3F6-5FC1-452B-AD03-027323BA70B1" IsSticky="true">
+			<Description>AMCoreResourceGuard</Description>
+			<!--Rule to protect AMCore registry Keys and values -->
+			<AacRule RuleGuid="5EF6D6A0-EF83-474D-B325-448CF8E4B982" GroupTag="AMCoreRegistryGroup" ReactionType="AAC_REACTION_BLOCK" ReportEvent="true" IsEnabled="true">
+				<Description>GuardAMCoreRegKeys</Description>
+				
+				<AacSubRule Role="AAC_ROLE_TARGET">
+					<AacMatchObject ObjectType="AAC_OBJECT_KEY">
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>HKLMS\McAfee\AVSolution**</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>HKCCS\Services\Eventlog\Application\AVLogEvent**</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>HKLMS\Network Associates\ePolicy Orchestrator\Application Plugins\AMCORE__**</TYPE_STRING>
+						</AacMatchData>
+                        <AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>HKLMS\McAfee\RealProtect**</TYPE_STRING>
+						</AacMatchData>
+                        <AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>HKLMS\McAfee\GTI**</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_ACCESS_MASK" MatchOp="AAC_OP_INCLUDE">
+						    <!-- AAC_ACCESS_CREATE | AAC_ACCESS_DELETE | AAC_ACCESS_REPLACE_KEY | AAC_ACCESS_RESTORE_KEY -->
+							<TYPE_BITMASK>0x309</TYPE_BITMASK>
+						</AacMatchData>
+					</AacMatchObject>
+				</AacSubRule>
+				<AacSubRule Role="AAC_ROLE_TARGET">
+					<AacMatchObject ObjectType="AAC_OBJECT_KEY">
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>HKLMS\Microsoft\Windows NT\CurrentVersion\Image File Execution Options</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_ACCESS_MASK" MatchOp="AAC_OP_INCLUDE">
+						    <!-- AAC_ACCESS_RENAME | AAC_ACCESS_DELETE -->
+							<TYPE_BITMASK>0x01000008</TYPE_BITMASK>
+						</AacMatchData>
+					</AacMatchObject>
+				</AacSubRule>
+				<AacSubRule Role="AAC_ROLE_TARGET">
+					<AacMatchObject ObjectType="AAC_OBJECT_KEY">
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE" IsRange="false">
+							<TYPE_STRING>HKLM\SOFTWARE\MICROSOFT\WINDOWS NT\CURRENTVERSION\APPCOMPATFLAGS\CUSTOM\MCSHIELD.EXE</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE" IsRange="false">
+							<TYPE_STRING>HKLM\SOFTWARE\MICROSOFT\WINDOWS NT\CURRENTVERSION\APPCOMPATFLAGS\CUSTOM\AMUPDATE.EXE</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>HKLMS\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\McShield.exe\**</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>HKLMS\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\amupdate.exe\**</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_ACCESS_MASK" MatchOp="AAC_OP_INCLUDE">
+						    <!-- AAC_ACCESS_CREATE -->
+							<TYPE_BITMASK>0x1</TYPE_BITMASK>
+						</AacMatchData>
+					</AacMatchObject>
+				</AacSubRule>
+				<AacSubRule Role="AAC_ROLE_TARGET">
+					<AacMatchObject ObjectType="AAC_OBJECT_VALUE">
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>HKLMS\McAfee\AVSolution**</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>HKCCS\Services\Eventlog\Application\AVLogEvent\**</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>HKLMS\Network Associates\ePolicy Orchestrator\Application Plugins\AMCORE__**</TYPE_STRING>
+                        </AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>HKLMS\McAfee\RealProtect**</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>HKLMS\McAfee\GTI**</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_ACCESS_MASK" MatchOp="AAC_OP_INCLUDE">
+						    <!-- AAC_ACCESS_CREATE | AAC_ACCESS_WRITE | AAC_ACCESS_DELETE -->
+							<TYPE_BITMASK>0xb</TYPE_BITMASK>
+						</AacMatchData>
+					</AacMatchObject>
+				</AacSubRule>
+				<AacSubRule Role="AAC_ROLE_TARGET">
+					<AacMatchObject ObjectType="AAC_OBJECT_VALUE">
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE" IsRange="false">
+							<TYPE_STRING>HKLM\SOFTWARE\MICROSOFT\WINDOWS NT\CURRENTVERSION\APPCOMPATFLAGS\CUSTOM\MCSHIELD.EXE</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE" IsRange="false">
+							<TYPE_STRING>HKLM\SOFTWARE\MICROSOFT\WINDOWS NT\CURRENTVERSION\APPCOMPATFLAGS\CUSTOM\AMUPDATE.EXE</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE" IsRange="false">
+							<TYPE_STRING>HKLM\SOFTWARE\MICROSOFT\WINDOWS NT\CURRENTVERSION\APPCOMPATFLAGS\CUSTOM\MCDATREP.EXE</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>HKLMS\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\McShield.exe\**</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>HKLMS\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\amupdate.exe\**</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>HKLMS\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\mcdatrep.exe\**</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_ACCESS_MASK" MatchOp="AAC_OP_INCLUDE">
+						    <!-- AAC_ACCESS_CREATE -->
+							<TYPE_BITMASK>0x1</TYPE_BITMASK>
+						</AacMatchData>
+					</AacMatchObject>
+				</AacSubRule>
+						
+				<AacSubRule Role="AAC_ROLE_INITIATOR">
+					<AacMatchObject ObjectType="AAC_OBJECT_PROCESS">
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>*</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>C:\Program Files\Common Files\McAfee\AMContent\scanners\x86\datrep\*\mcdatrep.exe</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>C:\Program Files\Common Files\McAfee\AMContent\scanners\x86_64\datrep\*\mcdatrep.exe</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>%SYSTEMROOT%\SYSTEM32\POQEXEC.EXE</TYPE_STRING>
+						</AacMatchData>						
+						<AacMatchData MatchType="AAC_MATCH_VTP_TRUST" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_INT8>1</TYPE_INT8>
+						</AacMatchData>
+					</AacMatchObject>
+				</AacSubRule>
+				
+			</AacRule>
+			<!--Rule Ends Here.-->
+
+
+			<!--Rule to protect AMCore driver Keys and values.-->
+			<AacRule RuleGuid="726FF8AB-2CFA-4A2E-A690-ED4D71A4EB98" GroupTag="AMCoreRegistryGroup" ReactionType="AAC_REACTION_BLOCK" ReportEvent="true" IsEnabled="true">
+				<Description>GuardAMCoreDriversRegKeys</Description>
+				
+				<AacSubRule Role="AAC_ROLE_TARGET">
+					<AacMatchObject ObjectType="AAC_OBJECT_KEY">
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>HKCCS\services\mfencbdc**</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>HKCCS\services\mfencrk**</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_ACCESS_MASK" MatchOp="AAC_OP_INCLUDE">
+						    <!-- AAC_ACCESS_CREATE | AAC_ACCESS_DELETE | AAC_ACCESS_REPLACE_KEY | AAC_ACCESS_RESTORE_KEY -->
+							<TYPE_BITMASK>0x309</TYPE_BITMASK>
+						</AacMatchData>
+					</AacMatchObject>
+				</AacSubRule>
+				<AacSubRule Role="AAC_ROLE_TARGET">
+					<AacMatchObject ObjectType="AAC_OBJECT_VALUE">
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>HKCCS\services\mfencbdc**</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>HKCCS\services\mfencrk**</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_ACCESS_MASK" MatchOp="AAC_OP_INCLUDE">
+						    <!-- AAC_ACCESS_CREATE | AAC_ACCESS_WRITE | AAC_ACCESS_DELETE -->
+							<TYPE_BITMASK>0xb</TYPE_BITMASK>
+						</AacMatchData>
+					</AacMatchObject>
+				</AacSubRule>
+						
+				<AacSubRule Role="AAC_ROLE_INITIATOR">
+					<AacMatchObject ObjectType="AAC_OBJECT_PROCESS">
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>*</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>%systemroot%\System32\services.exe</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>SYSTEM</TYPE_STRING>
+						</AacMatchData>
+					</AacMatchObject>
+				</AacSubRule>
+				
+			</AacRule>
+			<!--Rule Ends Here.-->
+			
+			
+			<!--Rule to protect Content related files.-->
+			<AacRule RuleGuid="3D704BE4-3768-4349-8628-F74E33A65324" GroupTag="AMCoreFileGroup" ReactionType="AAC_REACTION_BLOCK" ReportEvent="true" IsEnabled="true">
+				<Description>GuardAMCoreContentFiles</Description>
+				
+				<AacSubRule Role="AAC_ROLE_TARGET">
+					<AacMatchObject ObjectType="AAC_OBJECT_FILE">
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>C:\Program Files\Common Files\McAfee\AMContent</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>C:\Program Files\Common Files\McAfee\AMContent\**</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>C:\ProgramData\\McAfee\AMCore</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>C:\ProgramData\\McAfee\AMCore\**</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>C:\Program Files\Common Files\McAfee\AMContent\content\avengine\????*</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>C:\Program Files\Common Files\McAfee\AMContent\content\avengine\extradat</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>C:\Program Files\Common Files\McAfee\AMContent\content\avengine\extradat\extra.dat</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>C:\Program Files\Common Files\McAfee\AMContent\AMMarkClean.exe</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>C:\Program Files\Common Files\McAfee\AMContent\**\AMMarkClean.exe</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_ACCESS_MASK" MatchOp="AAC_OP_INCLUDE">
+						    <!-- AAC_ACCESS_CREATE | AAC_ACCESS_WRITE | AAC_ACCESS_DELETE | AAC_ACCESS_WRITE_ATTRIBUTE | AAC_ACCESS_SET_REPARSE -->
+							<TYPE_BITMASK>0x1200B</TYPE_BITMASK>
+						</AacMatchData>
+					</AacMatchObject>
+				</AacSubRule>
+						
+				<AacSubRule Role="AAC_ROLE_INITIATOR">
+					<AacMatchObject ObjectType="AAC_OBJECT_PROCESS">
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>*</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>C:\Program Files\Common Files\McAfee\AMContent\scanners\x86\datrep\*\mcdatrep.exe</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>C:\Program Files\Common Files\McAfee\AMContent\scanners\x86_64\datrep\*\mcdatrep.exe</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_VTP_TRUST" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_INT8>1</TYPE_INT8>
+						</AacMatchData>
+					</AacMatchObject>
+				</AacSubRule>
+			</AacRule>
+			<!--Rule Ends Here.-->
+			
+			
+			<!--Rule to protect AMCore files-->
+			<AacRule RuleGuid="1D8D3A64-4DAC-484A-B55A-9385590DD78D" GroupTag="AMCoreFileGroup" ReactionType="AAC_REACTION_BLOCK" ReportEvent="true" IsEnabled="true">
+				<Description>GuardAMCoreInstallDirAndFiles</Description>
+				
+				<AacSubRule Role="AAC_ROLE_TARGET">
+					<AacMatchObject ObjectType="AAC_OBJECT_FILE">
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>C:\Program Files\Common Files\McAfee\AMCore</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>C:\Program Files\Common Files\McAfee\AMCore\**</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>C:\ProgramData\McAfee\VirusScan\Quarantine</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>C:\ProgramData\McAfee\VirusScan\Quarantine\quarantine.db</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>C:\ProgramData\McAfee\VirusScan\Quarantine\quarantine\**</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>C:\ProgramData\McAfee\VirusScan\Quarantine\quarantine</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>%systemroot%\System32\drivers\mfencbdc.sys</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>%systemroot%\System32\drivers\mfencrk.sys</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>%systemroot%\System32\drivers\mfeclnrk.sys</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>C:\Program Files\Common Files\McAfee\AMCore\AMMarkClean.exe</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>C:\Program Files\Common Files\McAfee\AMCore\**\AMMarkClean.exe</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_ACCESS_MASK" MatchOp="AAC_OP_INCLUDE">
+						    <!-- AAC_ACCESS_CREATE | AAC_ACCESS_WRITE | AAC_ACCESS_DELETE | AAC_ACCESS_WRITE_ATTRIBUTE | AAC_ACCESS_SET_REPARSE -->
+							<TYPE_BITMASK>0x1200B</TYPE_BITMASK>
+						</AacMatchData>
+					</AacMatchObject>
+				</AacSubRule>
+						
+				<AacSubRule Role="AAC_ROLE_INITIATOR">
+					<AacMatchObject ObjectType="AAC_OBJECT_PROCESS">
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>*</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_VTP_TRUST" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_INT8>1</TYPE_INT8>
+						</AacMatchData>
+					</AacMatchObject>
+				</AacSubRule>
+			</AacRule>
+			<!--Rule Ends Here.-->
+			
+			
+			<!--Rule to Protect Termination and hooking of McShield.-->
+			<AacRule RuleGuid="84A801F6-E302-4B45-B0B3-B8346E905C12" GroupTag="AMCoreProcessGroup" ReactionType="AAC_REACTION_BLOCK" ReportEvent="true" IsEnabled="true">
+				<Description>GuardMcShieldFromHooking</Description>
+				
+				<AacSubRule Role="AAC_ROLE_TARGET">
+					<AacMatchObject ObjectType="AAC_OBJECT_PROCESS">
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_ACCESS_MASK" MatchOp="AAC_OP_INCLUDE">
+						    <!-- AAC_ACCESS_WRITE | AAC_ACCESS_DELETE  -->
+							<TYPE_BITMASK>0xA</TYPE_BITMASK>
+						</AacMatchData>
+					</AacMatchObject>
+				</AacSubRule>
+				
+				<AacSubRule Role="AAC_ROLE_TARGET">
+					<AacMatchObject ObjectType="AAC_OBJECT_THREAD">
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_ACCESS_MASK" MatchOp="AAC_OP_INCLUDE">
+						    <!-- AAC_ACCESS_WRITE | AAC_ACCESS_DELETE  -->
+							<TYPE_BITMASK>0xA</TYPE_BITMASK>
+						</AacMatchData>
+					</AacMatchObject>
+				</AacSubRule>
+
+				<AacSubRule Role="AAC_ROLE_INITIATOR">
+					<AacMatchObject ObjectType="AAC_OBJECT_PROCESS">
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE">
+							<TYPE_STRING>*</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>C:\Program Files (x86)\Common Files\McAfee\SystemCore\**</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>C:\Program Files\Common Files\McAfee\SystemCore\**</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>%systemroot%\SYSTEM32\CSRSS.EXE</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>%systemroot%\SYSTEM32\LSASS.EXE</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>%systemroot%\SYSTEM32\WerFault.exe</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>%systemroot%\SysWOW64\WerFault.exe</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>%systemroot%\SYSTEM32\svchost.exe</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>%systemroot%\SysWOW64\svchost.exe</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>%systemroot%\SYSTEM32\ctfmon.exe</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>%systemroot%\SysWOW64\ctfmon.exe</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>%systemroot%\SYSTEM32\winlogon.exe</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>%systemroot%\SYSTEM32\smss.exe</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>%systemroot%\SYSTEM32\lsm.exe</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_STRING>SYSTEM</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_VTP_TRUST" MatchOp="AAC_OP_EXCLUDE">
+							<TYPE_INT8>1</TYPE_INT8>
+						</AacMatchData>
+					</AacMatchObject>
+				</AacSubRule>
+			</AacRule>
+			<!--Rule Ends Here.-->
+			<AacRule RuleGuid="ed9b22b5-b4a9-4959-ba5d-0c63350da2fd" GroupTag="AMCoreFileGroup" ReactionType="AAC_REACTION_BLOCK" ReportEvent="true" IsEnabled="true">
+				<Description>Block case sensitivity on AMCore folders</Description>
+				<AacSubRule Role="AAC_ROLE_INITIATOR">
+					<AacMatchObject ObjectType="AAC_OBJECT_PROCESS">
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE" IsRange="false">
+							<TYPE_STRING>**</TYPE_STRING>
+						</AacMatchData>
+					</AacMatchObject>
+				</AacSubRule>
+				<AacSubRule Role="AAC_ROLE_TARGET">
+					<AacMatchObject ObjectType="AAC_OBJECT_FILE">
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE" IsRange="false">
+							<TYPE_STRING>C:\Program Files\Common Files\McAfee\AMCore\**</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE" IsRange="false">
+							<TYPE_STRING>C:\Program Files\Common Files\McAfee\AMContent\**</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE" IsRange="false">
+							<TYPE_STRING>C:\ProgramData\\McAfee\AMCore\**</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE" IsRange="false">
+							<TYPE_STRING>C:\ProgramData\McAfee\VirusScan\Quarantine\**</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_ACCESS_MASK" MatchOp="AAC_OP_INCLUDE" IsRange="false" RequiredBits="0x8000000000000000">
+							<!-- AAC_ACCESS_SET_CASE_SENSITIVE -->
+							<TYPE_BITMASK>0x10000000</TYPE_BITMASK>
+						</AacMatchData>
+					</AacMatchObject>
+				</AacSubRule>
+			</AacRule>
+		</AacPolicy>
+		<AacPolicy PolicyGuid="0F839C6D-B208-4347-A1B9-8ED4DE05D810" IsSticky="true">
+			<!--Rule to Protect McShield from DLL injection.-->
+			<AacRule RuleGuid="0F6B5299-B4B4-44cf-811A-A80DDCBF50A7" GroupTag="AMCoreProcessGroup" ReactionType="AAC_REACTION_BLOCK" ReportEvent="true" IsEnabled="true">
+			<Description>Protect AMCore from DLL injection</Description>
+				<AacSubRule Role="AAC_ROLE_INITIATOR">
+					<AacMatchObject ObjectType="AAC_OBJECT_PROCESS">
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE" IsRange="false">
+							<TYPE_STRING>C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE" IsRange="false">
+							<TYPE_STRING>C:\Program Files\Common Files\McAfee\AMContent\AMCoreUpdater\amupdate.exe</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE" IsRange="false">
+							<TYPE_STRING>**\v3_*dat.exe</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE" IsRange="false">
+							<TYPE_STRING>C:\Program Files\Common Files\McAfee\AMContent\scanners\x86\datrep\*\mcdatrep.exe</TYPE_STRING>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_OBJECT_NAME" MatchOp="AAC_OP_INCLUDE" IsRange="false">
+							<TYPE_STRING>C:\Program Files\Common Files\McAfee\AMContent\scanners\x86_64\datrep\*\mcdatrep.exe</TYPE_STRING>
+						</AacMatchData>
+					</AacMatchObject>
+				</AacSubRule>
+				<AacSubRule Role="AAC_ROLE_TARGET">
+					<AacMatchObject ObjectType="AAC_OBJECT_SECTION">
+						<AacMatchData MatchType="AAC_MATCH_VTP_TRUST" MatchOp="AAC_OP_INCLUDE" IsRange="false">
+							<TYPE_INT8>0</TYPE_INT8>
+						</AacMatchData>
+						<AacMatchData MatchType="AAC_MATCH_ACCESS_MASK" MatchOp="AAC_OP_INCLUDE" IsRange="false">
+							<TYPE_BITMASK>0x1</TYPE_BITMASK>
+						</AacMatchData>
+					</AacMatchObject>
+				</AacSubRule>
+			 </AacRule>
+			<!--Rule Ends Here.-->
+		</AacPolicy>
+	</PointProduct>
+</PointProductList>
+
+06/02/20 22:55:46 .\AccessProtection.cpp: 87: Exiting function AccessProtection::Install
+06/02/20 22:55:46 .\AccessProtection.cpp: 112: Exiting function AccessProtection::Repair
+06/02/20 22:55:46 .\Package.cpp: 239: End Package Repair
+06/02/20 22:55:46 .\installer.cpp: 409: Exiting function RepairFiles  with result 0
+06/02/20 22:55:51 .\Package.cpp: 331: Entered function Package::StartServices
+06/02/20 22:55:51 .\Package.cpp: 942: Entered function Feature::StartServices
+06/02/20 22:55:51 .\MMService.cpp: 123: Entered function MMService::StartServiceW
+06/02/20 22:55:51 .\InstallHelper.cpp: 437: Entered function StartTheDrivers
+06/02/20 22:55:51 .\InstallHelper.cpp: 994: Entered function VerifySignature
+06/02/20 22:55:51 .\InstallHelper.cpp: 933: Processing embedded certificate
+06/02/20 22:55:51 .\InstallHelper.cpp: 948: Getting cert from store
+06/02/20 22:55:51 .\InstallHelper.cpp: 876: Getting Certificate from Store
+06/02/20 22:55:51 .\InstallHelper.cpp: 888: Allocating SignerInfo
+06/02/20 22:55:51 .\InstallHelper.cpp: 902: Finding cert in store
+06/02/20 22:55:51 .\InstallHelper.cpp: 860: Getting CertData
+06/02/20 22:55:51 .\InstallHelper.cpp: 966: Freeing cert
+06/02/20 22:55:51 .\InstallHelper.cpp: 1055: Exiting function VerifySignature
+06/02/20 22:55:51 .\InstallHelper.cpp: 455: Exiting function StartTheDrivers
+06/02/20 22:55:51 .\MMService.cpp: 138: Attempting StartService: 1 time
+06/02/20 22:55:52 .\MMService.cpp: 146: MMService::StartService: StartService succeeded.
+06/02/20 22:55:52 .\MMService.cpp: 301: Entered function MMService::WaitForAVSToInitialized
+06/02/20 22:55:52 .\MMService.cpp: 317: Server State : AVS_INITIALIZING
+06/02/20 22:55:53 .\MMService.cpp: 317: Server State : AVS_INITIALIZED
+06/02/20 22:55:53 .\MMService.cpp: 354: Exiting function MMService::WaitForAVSToInitialized
+06/02/20 22:55:53 .\MMService.cpp: 169: Exiting function MMService::StartServiceW
+06/02/20 22:55:53 .\Package.cpp: 961: Exiting function Feature::StartServices
+06/02/20 22:55:53 .\Package.cpp: 342: Exiting function Package::StartServices
+06/02/20 22:55:53 .\installer.cpp: 530: Repair Successful.
+06/02/20 22:55:53 .\installer.cpp: 538: Exiting function Repair  with non-propogated status of 0
+06/02/20 22:55:53 .\installer.cpp: 539: Exiting function Repair  with result 0
+06/02/20 22:55:53 .\installer.cpp: 746: Exiting function PerformAction  with result 0x0
+06/02/20 22:55:53 .\MMService.cpp: 54: Entered function MMService::~MMService
+06/02/20 22:55:53 .\MMService.cpp: 60: Exiting function MMService::~MMService
+06/02/20 22:55:53 .\telemetry.cpp: 107: Entered function InstallerTelemetry::DoTelemetry
+06/02/20 22:55:53 .\telemetry.cpp: 249: Setting install count 1 for version 19.9.0.286.1
+06/02/20 22:55:53 .\telemetry.cpp: 117: SendTelemetry - 76, 2, 2, 0, 0, 0, 1, 7, 19.7.0.54.12, 19.9.0.286.1, 2, 10, 0, 0, 18363, 14688 ms, 6532379 sec
+06/02/20 22:55:53 .\tstelemetry.cpp: 25: TSTelemetry::TSTelemetry()
+06/02/20 22:55:53 .\tstelemetry.cpp: 183: TSTelemetry::GetDeviceId() - Existing TS device id found.
+06/02/20 22:55:53 .\tstelemetry.cpp: 226: TS device Id: d8ad226b-b17f-4673-8a22-a43206fd72bc
+06/02/20 22:55:53 .\installertelemetry.cpp: 21: InstallerTelemetry::InstallerTelemetry()
+06/02/20 22:55:53 .\installertelemetry.cpp: 26: InstallerTelemetry::Send()
+06/02/20 22:55:53 .\tstelemetry.cpp: 124: TSTelemetry::Send()
+06/02/20 22:55:53 .\tstelemetry.cpp: 140: TSTelemetry::Send(): Sending 76 bytes.
+06/02/20 22:55:54 .\tstelemetry.cpp: 113: TSTelemetry::~TSTelemetry()
+06/02/20 22:55:54 .\tstelemetry.cpp: 119: Exiting TSTelemetry::~TSTelemetry()
+06/02/20 22:55:54 .\telemetry.cpp: 148: SendTelemetry returned - 0
+06/02/20 22:55:54 .\Main.cpp: 251: ###**********************************************************************************
+06/02/20 22:55:54 .\Main.cpp: 252: Completed AMCore Installation/Uninstallation sequence with result 0x0
+06/02/20 22:55:54 .\Main.cpp: 253: ###**********************************************************************************
